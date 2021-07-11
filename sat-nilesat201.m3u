@@ -1,0 +1,654 @@
+#EXTINF:0,EDUC 1
+rtsp://@192.168.0.134/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1001,1201,101,1001
+#EXTINF:0,Eriteria TV
+rtsp://@192.168.0.134/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1002,1202,102,1002
+#EXTINF:0,Sudan TV
+rtsp://@192.168.0.134/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1003,1203,103,1003
+#EXTINF:0,Yemen
+rtsp://@192.168.0.134/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1004,1204,104,1104
+#EXTINF:0,ALSAHA
+rtsp://@192.168.0.134/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1005,1205,105,1005
+#EXTINF:0,Al Ahly HD
+rtsp://@192.168.0.134/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1006,1206,106,1006
+#EXTINF:0,Al Arabiya
+rtsp://@192.168.0.134/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1007,1207,107,1007
+#EXTINF:0,Al-Arabiya Alhadath
+rtsp://@192.168.0.134/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1008,1208,108,1008
+#EXTINF:0,MDEEH
+rtsp://@192.168.0.134/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1009,1209,109,1009
+#EXTINF:0,Samraa
+rtsp://@192.168.0.134/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1010,1011,110,1010
+#EXTINF:0,Yemen Today
+rtsp://@192.168.0.134/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1111,1311,111,1111
+#EXTINF:0,Al Mustafa
+rtsp://@192.168.0.134/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1026,1028,112,1026
+#EXTINF:0,Al Ahly SD
+rtsp://@192.168.0.134/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1029,1030,113,1029
+#EXTINF:0,Al Forat
+rtsp://@192.168.0.134/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1016,1017,114,1016
+#EXTINF:0,Alforat R
+rtsp://@192.168.0.134/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2023,127,2023
+#EXTINF:0,Umdorman Radio
+rtsp://@192.168.0.134/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2022,129,8191
+#EXTINF:0,ERI Radio1
+rtsp://@192.168.0.134/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2020,128,2020
+#EXTINF:0,ERI Radio 2
+rtsp://@192.168.0.134/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2025,130,2025
+#EXTINF:0,Al Kahera Wal Nas
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3088,3089,200,3088
+#EXTINF:0,AL oula
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1001,1201,101,1001
+#EXTINF:0,AL Oula HD
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3002,3001,103,3002
+#EXTINF:0,Nile Family
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1005,1205,105,1005
+#EXTINF:0,Egyptian TV SD
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1006,1206,106,1006
+#EXTINF:0,Azhari
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3006,1305,130,3006
+#EXTINF:0,BBCW
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1022,1222,522,1022
+#EXTINF:0,Libya Alwataniya
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1023,1024,124,1023
+#EXTINF:0,Libya Sport Channel
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3085,3086,125,3085
+#EXTINF:0,AL-bernameg AL-aam
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,412,151,8191
+#EXTINF:0,AL-Quran AL_Karem
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1501,152,8191
+#EXTINF:0,Sout AL-arab
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3070,153,8191
+#EXTINF:0,AL-Sharg AL-awsat
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1403,155,8191
+#EXTINF:0,AL-bernameg AL-orobi
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1503,156,8191
+#EXTINF:0,AL-shabab W Al-reyadah
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1405,159,8191
+#EXTINF:0,Eductional channel
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1406,161,8191
+#EXTINF:0,AL-Kahera Al-Kobra
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1506,162,8191
+#EXTINF:0,AL-Bernameg AL-moussekey
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1407,163,8191
+#EXTINF:0,AL-Aghani
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1507,164,8191
+#EXTINF:0,AL-Menia
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1408,165,8191
+#EXTINF:0,Wadi Al-Neil & Palestine
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1508,166,8191
+#EXTINF:0,Matrouh
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1303,187,8191
+#EXTINF:0,North Sinai
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1304,189,8191
+#EXTINF:0,South Sinai
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1308,190,8191
+#EXTINF:0,Maspero FM & Thakafy
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1002,192,8191
+#EXTINF:0,Libya Alwatania Radio
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3010,126,8191
+#EXTINF:0,ELRADIO 9090
+rtsp://@192.168.0.134/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1009,172,8191
+#EXTINF:0,Al-Nahar One
+rtsp://@192.168.0.134/?src=1&freq=11785&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1801,1901,801,1801
+#EXTINF:0,Al-Nahar Drama
+rtsp://@192.168.0.134/?src=1&freq=11785&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1802,1902,802,1802
+#EXTINF:0,CBC
+rtsp://@192.168.0.134/?src=1&freq=11785&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1803,1903,803,1803
+#EXTINF:0,CBC Sofra
+rtsp://@192.168.0.134/?src=1&freq=11785&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1804,1904,804,1804
+#EXTINF:0,CBC Drama
+rtsp://@192.168.0.134/?src=1&freq=11785&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1805,1905,805,1805
+#EXTINF:0,Extra News
+rtsp://@192.168.0.134/?src=1&freq=11785&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1806,1906,806,1806
+#EXTINF:0,Alhayat Muslsalat
+rtsp://@192.168.0.134/?src=1&freq=11785&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1807,1907,807,1807
+#EXTINF:0,SPACETOON ARABIC
+rtsp://@192.168.0.134/?src=1&freq=11785&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1003,1004,63,1003
+#EXTINF:0,Mix
+rtsp://@192.168.0.134/?src=1&freq=11785&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1809,1909,809,1809
+#EXTINF:0,CNBC ARABIYA
+rtsp://@192.168.0.134/?src=1&freq=11785&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2300,2301,75,2300
+#EXTINF:0,AL SHARQIYA
+rtsp://@192.168.0.134/?src=1&freq=11785&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,77,113,116,77
+#EXTINF:0,Nick Jr HD
+rtsp://@192.168.0.134/?src=1&freq=11804&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,1101,501,101,1101
+#EXTINF:0,Discovery Family HD
+rtsp://@192.168.0.134/?src=1&freq=11804&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,202,402,102,202
+#EXTINF:0,OSN Binge
+rtsp://@192.168.0.134/?src=1&freq=11804&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,203,403,103,203
+#EXTINF:0,Nat Geo Wild HD
+rtsp://@192.168.0.134/?src=1&freq=11804&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,204,504,104,204
+#EXTINF:0,Nat Geo People HD
+rtsp://@192.168.0.134/?src=1&freq=11804&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,205,505,105,205
+#EXTINF:0,Nat Geo HD
+rtsp://@192.168.0.134/?src=1&freq=11804&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,206,506,106,206
+#EXTINF:0,Star Movies HD
+rtsp://@192.168.0.134/?src=1&freq=11804&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,207,507,107,207
+#EXTINF:0,Paramount HD
+rtsp://@192.168.0.134/?src=1&freq=11804&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,208,408,108,208
+#EXTINF:0,Comedy Central HD
+rtsp://@192.168.0.134/?src=1&freq=11804&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,209,409,109,209
+#EXTINF:0,MBN Alhurra HD
+rtsp://@192.168.0.134/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1018,50,102,1018
+#EXTINF:0,Palestine
+rtsp://@192.168.0.134/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3092,3093,103,3092
+#EXTINF:0,A-Nahar Cinema
+rtsp://@192.168.0.134/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1005,1007,104,1005
+#EXTINF:0,Egyptian TV HD
+rtsp://@192.168.0.134/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1117,1118,105,1117
+#EXTINF:0,MBC Masr 2
+rtsp://@192.168.0.134/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1015,1016,106,1015
+#EXTINF:0,Al Mawsleya
+rtsp://@192.168.0.134/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1009,1003,107,1009
+#EXTINF:0,ALSeha Waljamal
+rtsp://@192.168.0.134/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1010,2000,108,1010
+#EXTINF:0,Mehwer
+rtsp://@192.168.0.134/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1004,1013,111,1004
+#EXTINF:0,AlHadath Alyoum
+rtsp://@192.168.0.134/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1020,1023,112,1020
+#EXTINF:0,Sada ElBalad 3
+rtsp://@192.168.0.134/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1006,1008,113,1006
+#EXTINF:0,Sada El Balad
+rtsp://@192.168.0.134/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1012,1014,122,1012
+#EXTINF:0,Sada El Balad 2
+rtsp://@192.168.0.134/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1021,1022,123,1021
+#EXTINF:0,VOA IRAQ
+rtsp://@192.168.0.134/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1126,114,1126
+#EXTINF:0,Palestine Radio
+rtsp://@192.168.0.134/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5001,152,8191
+#EXTINF:0,TeN TV
+rtsp://@192.168.0.134/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1230,1232,101,1230
+#EXTINF:0,Moga
+rtsp://@192.168.0.134/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1235,1237,108,1235
+#EXTINF:0,Nile News
+rtsp://@192.168.0.134/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1002,1202,102,1002
+#EXTINF:0,Nile Comedy
+rtsp://@192.168.0.134/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1003,3032,103,1003
+#EXTINF:0,Nile Life
+rtsp://@192.168.0.134/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3041,3043,104,3041
+#EXTINF:0,Nile Drama
+rtsp://@192.168.0.134/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3051,3053,105,3051
+#EXTINF:0,Nile Sport
+rtsp://@192.168.0.134/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3061,3063,106,3061
+#EXTINF:0,Nile Culture
+rtsp://@192.168.0.134/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3071,3072,107,3071
+#EXTINF:0,Nile Cinema
+rtsp://@192.168.0.134/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1022,1222,110,1022
+#EXTINF:0,Maspero Zaman
+rtsp://@192.168.0.134/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3003,3004,111,3003
+#EXTINF:0,SAFA TV
+rtsp://@192.168.0.134/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3005,3006,113,3005
+#EXTINF:0,Dream2
+rtsp://@192.168.0.134/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3001,3002,416,3001
+#EXTINF:0,RMC MO
+rtsp://@192.168.0.134/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2004,401,2004
+#EXTINF:0,DRN Radio
+rtsp://@192.168.0.134/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2014,405,2014
+#EXTINF:0,BBC (A)
+rtsp://@192.168.0.134/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2016,406,2016
+#EXTINF:0,BBC (E)
+rtsp://@192.168.0.134/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2017,410,2017
+#EXTINF:0,Radio Masr
+rtsp://@192.168.0.134/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3092,141,8191
+#EXTINF:0,Bakous Alexandaria
+rtsp://@192.168.0.134/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3091,152,8191
+#EXTINF:0,Aswan
+rtsp://@192.168.0.134/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3101,153,8191
+#EXTINF:0,BBC Horn of Africa
+rtsp://@192.168.0.134/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3111,154,3111
+#EXTINF:0,Mowagahat-8
+rtsp://@192.168.0.134/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3121,155,8191
+#EXTINF:0,ALWadi ALGaded
+rtsp://@192.168.0.134/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1233,156,8191
+#EXTINF:0,Mowagahat-1
+rtsp://@192.168.0.134/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3141,157,8191
+#EXTINF:0,Mowagahat-2
+rtsp://@192.168.0.134/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3151,158,8191
+#EXTINF:0,Canal Radio
+rtsp://@192.168.0.134/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2020,118,8191
+#EXTINF:0,ONTIME SPORTS2 HD
+rtsp://@192.168.0.134/?src=1&freq=11862&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2001,2002,101,2001
+#EXTINF:0,ON  E HD
+rtsp://@192.168.0.134/?src=1&freq=11862&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2004,2005,102,2004
+#EXTINF:0,ONTIME SPORTS HD
+rtsp://@192.168.0.134/?src=1&freq=11862&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2007,2008,103,2007
+#EXTINF:0,ONTIME SPORTS2
+rtsp://@192.168.0.134/?src=1&freq=11862&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2013,2014,105,2013
+#EXTINF:0,ON  E
+rtsp://@192.168.0.134/?src=1&freq=11862&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2016,2017,106,2016
+#EXTINF:0,ONTIME SPORTS
+rtsp://@192.168.0.134/?src=1&freq=11862&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2019,2020,107,2019
+#EXTINF:0,ON Drama
+rtsp://@192.168.0.134/?src=1&freq=11862&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2022,2023,108,2022
+#EXTINF:0,Misr Quran Kareem
+rtsp://@192.168.0.134/?src=1&freq=11862&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2025,2026,109,2025
+#EXTINF:0,Masala TV
+rtsp://@192.168.0.134/?src=1&freq=11881&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,2105,2205,205,2105
+#EXTINF:0,Hum TV
+rtsp://@192.168.0.134/?src=1&freq=11881&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,2106,2206,206,2106
+#EXTINF:0,Duniya News
+rtsp://@192.168.0.134/?src=1&freq=11881&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,2108,2208,208,2108
+#EXTINF:0,GEO TV
+rtsp://@192.168.0.134/?src=1&freq=11881&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,2113,2213,213,2113
+#EXTINF:0,Baby TV
+rtsp://@192.168.0.134/?src=1&freq=11881&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,2120,2220,220,2120
+#EXTINF:0,ARY News
+rtsp://@192.168.0.134/?src=1&freq=11881&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,2121,2221,221,2121
+#EXTINF:0,VH-1
+rtsp://@192.168.0.134/?src=1&freq=11881&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,2124,2224,224,2124
+#EXTINF:0,Free TV
+rtsp://@192.168.0.134/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1008,1009,301,1008
+#EXTINF:0,TV5
+rtsp://@192.168.0.134/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1000,1200,110,1000
+#EXTINF:0,ALFATH TV
+rtsp://@192.168.0.134/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1003,1004,111,1003
+#EXTINF:0,Misr Al Zera3eya
+rtsp://@192.168.0.134/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1305,1306,202,1305
+#EXTINF:0,AIC
+rtsp://@192.168.0.134/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3101,3102,203,3101
+#EXTINF:0,Mazzika
+rtsp://@192.168.0.134/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1119,1120,204,1119
+#EXTINF:0,Al Fath Sonnah TV
+rtsp://@192.168.0.134/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1601,1602,205,1601
+#EXTINF:0,AlSaeedah
+rtsp://@192.168.0.134/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1122,1123,327,1122
+#EXTINF:0,CNN
+rtsp://@192.168.0.134/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1005,1007,345,1005
+#EXTINF:0,Tunisia Nat 2
+rtsp://@192.168.0.134/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3010,3011,332,3010
+#EXTINF:0,Nogoum FM TV
+rtsp://@192.168.0.134/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1307,1308,116,1307
+#EXTINF:0,Al Ghad HD
+rtsp://@192.168.0.134/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1309,1310,100,1309
+#EXTINF:0,Al Ghad SD
+rtsp://@192.168.0.134/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1311,1312,123,1311
+#EXTINF:0,Nile FM
+rtsp://@192.168.0.134/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3017,334,3017
+#EXTINF:0,Nogoum FM
+rtsp://@192.168.0.134/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1013,335,1013
+#EXTINF:0,Alkass one HD
+rtsp://@192.168.0.134/?src=1&freq=11919&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,231,331,131,231
+#EXTINF:0,Alkass two HD
+rtsp://@192.168.0.134/?src=1&freq=11919&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,232,332,132,232
+#EXTINF:0,Alkass three HD
+rtsp://@192.168.0.134/?src=1&freq=11919&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,233,333,133,233
+#EXTINF:0,Alkass four HD
+rtsp://@192.168.0.134/?src=1&freq=11919&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,237,337,137,237
+#EXTINF:0,Nilesat Promo
+rtsp://@192.168.0.134/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2801,2802,101,2801
+#EXTINF:0,Mix Bel Araby
+rtsp://@192.168.0.134/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2821,2822,2820,2821
+#EXTINF:0,Koky
+rtsp://@192.168.0.134/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4131,4132,4130,4131
+#EXTINF:0,AL SHARQIYA HD
+rtsp://@192.168.0.134/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2861,2862,2860,2861
+#EXTINF:0,Syria Satellite
+rtsp://@192.168.0.134/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2874,2875,122,2874
+#EXTINF:0,Syria Drama
+rtsp://@192.168.0.134/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2877,2878,123,2877
+#EXTINF:0,Syria Education
+rtsp://@192.168.0.134/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2880,2881,124,2880
+#EXTINF:0,Nour Elsham
+rtsp://@192.168.0.134/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2884,2885,125,2883
+#EXTINF:0,Souryana
+rtsp://@192.168.0.134/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2888,2887,126,2886
+#EXTINF:0,SAMA TV
+rtsp://@192.168.0.134/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2889,2890,127,2889
+#EXTINF:0,Radio Damascus
+rtsp://@192.168.0.134/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2896,137,8191
+#EXTINF:0,Syria Foreign Radio
+rtsp://@192.168.0.134/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2897,138,8191
+#EXTINF:0,Sawt Al Shabab
+rtsp://@192.168.0.134/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2898,139,8191
+#EXTINF:0,AMWAJ FM
+rtsp://@192.168.0.134/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2899,140,8191
+#EXTINF:0,alnaqel news
+rtsp://@192.168.0.134/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5106,5306,5206,5106
+#EXTINF:0,Amman TV
+rtsp://@192.168.0.134/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,150,250,350,150
+#EXTINF:0,Jordan Sport 
+rtsp://@192.168.0.134/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,154,254,354,154
+#EXTINF:0,Khaleej Arab 2
+rtsp://@192.168.0.134/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1393,1394,108,1393
+#EXTINF:0,Dzair 3
+rtsp://@192.168.0.134/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1649,1650,109,1649
+#EXTINF:0,Dar Alshefa
+rtsp://@192.168.0.134/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2161,2163,97,2161
+#EXTINF:0,Dzair Pub
+rtsp://@192.168.0.134/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,112,312,35,112
+#EXTINF:0,ALISTIQAMA TV
+rtsp://@192.168.0.134/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1395,1396,380,1395
+#EXTINF:0,Hona Baghdad
+rtsp://@192.168.0.134/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,43,42,44,43
+#EXTINF:0,RO'YA HD
+rtsp://@192.168.0.134/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,80,81,82,80
+#EXTINF:0,Jordan HD
+rtsp://@192.168.0.134/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2420,2421,85,2420
+#EXTINF:0,Almamlaka TV
+rtsp://@192.168.0.134/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,183,283,83,183
+#EXTINF:0,Darsak 2
+rtsp://@192.168.0.134/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,190,192,381,190
+#EXTINF:0,Darsak Tawjihi
+rtsp://@192.168.0.134/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,191,193,382,191
+#EXTINF:0,Quran Kareem Jordan
+rtsp://@192.168.0.134/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,256,356,256
+#EXTINF:0,Sawt Al-alam
+rtsp://@192.168.0.134/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,302,33,8191
+#EXTINF:0,Hala Jordan
+rtsp://@192.168.0.134/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,40,41,569
+#EXTINF:0,Radio FM
+rtsp://@192.168.0.134/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,655,344,655
+#EXTINF:0,Radio Yaqeen Jordan
+rtsp://@192.168.0.134/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,258,373,258
+#EXTINF:0,Rotana Radio Jordan
+rtsp://@192.168.0.134/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,259,374,259
+#EXTINF:0,Radio Fann Jordan
+rtsp://@192.168.0.134/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,260,375,260
+#EXTINF:0,Rotana TarabJordan  
+rtsp://@192.168.0.134/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,261,376,261
+#EXTINF:0,Yalla OSN Support
+rtsp://@192.168.0.134/?src=1&freq=11977&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,202,302,102,202
+#EXTINF:0,France 24 Eng
+rtsp://@192.168.0.134/?src=1&freq=11977&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,203,303,103,203
+#EXTINF:0,Sky News Arabia
+rtsp://@192.168.0.134/?src=1&freq=11977&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,205,305,105,205
+#EXTINF:0,Baby TV
+rtsp://@192.168.0.134/?src=1&freq=11977&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,209,309,109,209
+#EXTINF:0,Sky News HD
+rtsp://@192.168.0.134/?src=1&freq=11977&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,212,312,112,212
+#EXTINF:0,OSN
+rtsp://@192.168.0.134/?src=1&freq=11977&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,213,313,113,213
+#EXTINF:0,Sky News Arabia HD
+rtsp://@192.168.0.134/?src=1&freq=11977&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,215,315,115,215
+#EXTINF:0,DWRR 101.9
+rtsp://@192.168.0.134/?src=1&freq=11977&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,316,116,316
+#EXTINF:0,OSN Movies HD
+rtsp://@192.168.0.134/?src=1&freq=11996&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,201,301,101,201
+#EXTINF:0,OSN Movies Action HD
+rtsp://@192.168.0.134/?src=1&freq=11996&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,202,302,102,202
+#EXTINF:0,OSN First HD
+rtsp://@192.168.0.134/?src=1&freq=11996&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,204,304,104,204
+#EXTINF:0,OSN Sports 2 HD
+rtsp://@192.168.0.134/?src=1&freq=11996&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,205,305,105,205
+#EXTINF:0,OSN YH Cinema HD
+rtsp://@192.168.0.134/?src=1&freq=11996&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,206,406,106,206
+#EXTINF:0,Al Kahera Wal Nas +2
+rtsp://@192.168.0.134/?src=1&freq=12015&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2250,2251,101,2250
+#EXTINF:0,CGTN
+rtsp://@192.168.0.134/?src=1&freq=12015&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1005,1006,102,1005
+#EXTINF:0,NHK WORLD-JAPAN
+rtsp://@192.168.0.134/?src=1&freq=12015&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2111,2112,103,2111
+#EXTINF:0,Libya Alrasmia
+rtsp://@192.168.0.134/?src=1&freq=12015&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1013,1014,104,1013
+#EXTINF:0,Lebanon TV
+rtsp://@192.168.0.134/?src=1&freq=12015&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1000,1001,105,1000
+#EXTINF:0,MBC MASR
+rtsp://@192.168.0.134/?src=1&freq=12015&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2290,2291,106,2290
+#EXTINF:0,HADRAMAUT TV
+rtsp://@192.168.0.134/?src=1&freq=12015&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1300,1301,107,1300
+#EXTINF:0,2M Maroc
+rtsp://@192.168.0.134/?src=1&freq=12015&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1007,1107,108,1007
+#EXTINF:0,CGTN-Arabic
+rtsp://@192.168.0.134/?src=1&freq=12015&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1008,1009,110,4113
+#EXTINF:0,Alhayat 2
+rtsp://@192.168.0.134/?src=1&freq=12015&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1305,1306,111,1305
+#EXTINF:0,Al Mergab
+rtsp://@192.168.0.134/?src=1&freq=12015&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1307,1308,112,1307
+#EXTINF:0,LTC
+rtsp://@192.168.0.134/?src=1&freq=12015&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1309,1310,114,1309
+#EXTINF:0,Iqraa
+rtsp://@192.168.0.134/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,520,730,266,520
+#EXTINF:0,Cima
+rtsp://@192.168.0.134/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,512,650,269,128
+#EXTINF:0,Hekayat HD
+rtsp://@192.168.0.134/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,513,660,271,513
+#EXTINF:0,Hekayat2
+rtsp://@192.168.0.134/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,522,750,260,138
+#EXTINF:0,Aflam 1
+rtsp://@192.168.0.134/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,515,680,258,131
+#EXTINF:0,Aflam 2
+rtsp://@192.168.0.134/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,516,690,257,132
+#EXTINF:0,Cinema
+rtsp://@192.168.0.134/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,517,700,270,133
+#EXTINF:0,Jordan
+rtsp://@192.168.0.134/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,521,740,267,137
+#EXTINF:0,Iraq medical
+rtsp://@192.168.0.134/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,532,5666,279,532
+#EXTINF:0,Al-Khabar TV
+rtsp://@192.168.0.134/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,534,5668,281,534
+#EXTINF:0,Almasalah
+rtsp://@192.168.0.134/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,544,5672,803,544
+#EXTINF:0,JORDAN DERETNA
+rtsp://@192.168.0.134/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,547,5681,806,547
+#EXTINF:0,Iraq Now
+rtsp://@192.168.0.134/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,548,5682,807,548
+#EXTINF:0,El FADJR 2
+rtsp://@192.168.0.134/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,551,5686,816,551
+#EXTINF:0,Dijlah Tarab
+rtsp://@192.168.0.134/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,411,1383,363,411
+#EXTINF:0,Almamlaka TV
+rtsp://@192.168.0.134/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,178,278,78,178
+#EXTINF:0,Zaytouna Radio & TV
+rtsp://@192.168.0.134/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,563,463,396,563
+#EXTINF:0,a Konoz Alhayat
+rtsp://@192.168.0.134/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,565,465,398,565
+#EXTINF:0,EL HIKMA TV DZ
+rtsp://@192.168.0.134/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,566,34,399,566
+#EXTINF:0,Karawan tv
+rtsp://@192.168.0.134/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,113,313,213,113
+#EXTINF:0,Jordan Radio 
+rtsp://@192.168.0.134/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,762,336,762
+#EXTINF:0,Hawa Dijlah Radio
+rtsp://@192.168.0.134/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1321,118,1321
+#EXTINF:0,AL Shams
+rtsp://@192.168.0.134/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2101,2111,801,2101
+#EXTINF:0,Oscar TV
+rtsp://@192.168.0.134/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,49,2122,802,49
+#EXTINF:0,Bedaya
+rtsp://@192.168.0.134/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2105,2104,803,2105
+#EXTINF:0,Al Masryia
+rtsp://@192.168.0.134/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2010,2004,804,2010
+#EXTINF:0,Nile TV
+rtsp://@192.168.0.134/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2116,2117,805,2116
+#EXTINF:0,Althanya
+rtsp://@192.168.0.134/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2118,2119,807,2118
+#EXTINF:0,Panorama Drama
+rtsp://@192.168.0.134/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2012,2013,808,2012
+#EXTINF:0,Panorama Drama 2
+rtsp://@192.168.0.134/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2016,2017,809,2016
+#EXTINF:0,Panorama Film
+rtsp://@192.168.0.134/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2018,2019,810,2018
+#EXTINF:0,Panorama Food
+rtsp://@192.168.0.134/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2106,2107,812,2106
+#EXTINF:0,Al Nas
+rtsp://@192.168.0.134/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2112,2113,822,2112
+#EXTINF:0,AL NADA TV
+rtsp://@192.168.0.134/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2315,2316,813,2315
+#EXTINF:0,AL-Anbar
+rtsp://@192.168.0.134/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2000,2001,806,2000
+#EXTINF:0,Al-Majd3
+rtsp://@192.168.0.134/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2310,2311,800,2310
+#EXTINF:0,Radio Hits
+rtsp://@192.168.0.134/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2110,816,2110
+#EXTINF:0,Mega FM
+rtsp://@192.168.0.134/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2006,818,2006
+#EXTINF:0,Nagham FM
+rtsp://@192.168.0.134/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2030,819,2030
+#EXTINF:0,Sha3by FM
+rtsp://@192.168.0.134/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2040,820,2040
+#EXTINF:0,Fashion TV HD
+rtsp://@192.168.0.134/?src=1&freq=12073&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,201,301,101,201
+#EXTINF:0,Food Network HD
+rtsp://@192.168.0.134/?src=1&freq=12073&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,202,302,102,202
+#EXTINF:0,OSN Mov Premiere HD
+rtsp://@192.168.0.134/?src=1&freq=12073&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,203,403,103,203
+#EXTINF:0,OSN Movies Drama HD
+rtsp://@192.168.0.134/?src=1&freq=12073&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,204,404,104,204
+#EXTINF:0,OSN Mov Festival HD
+rtsp://@192.168.0.134/?src=1&freq=12073&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,205,405,105,205
+#EXTINF:0,OSN Movies Kids HD
+rtsp://@192.168.0.134/?src=1&freq=12073&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,206,406,106,206
+#EXTINF:0,OSN Ya Hala! HD +2
+rtsp://@192.168.0.134/?src=1&freq=12073&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,207,407,107,207
+#EXTINF:0,dmc HD
+rtsp://@192.168.0.134/?src=1&freq=12092&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4901,4902,101,4901
+#EXTINF:0,dmc
+rtsp://@192.168.0.134/?src=1&freq=12092&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4904,4905,102,4904
+#EXTINF:0,dmc News
+rtsp://@192.168.0.134/?src=1&freq=12092&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4907,4908,103,4907
+#EXTINF:0,Zamalek Sports
+rtsp://@192.168.0.134/?src=1&freq=12092&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4910,4911,104,4910
+#EXTINF:0,dmc drama
+rtsp://@192.168.0.134/?src=1&freq=12092&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4913,4914,105,4913
+#EXTINF:0,dmc masraheyat
+rtsp://@192.168.0.134/?src=1&freq=12092&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4922,4923,108,4922
+#EXTINF:0,Energy FM
+rtsp://@192.168.0.134/?src=1&freq=12092&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4961,121,4961
+#EXTINF:0,OMAN  TV General SD
+rtsp://@192.168.0.134/?src=1&freq=12111&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,110,120,100,110
+#EXTINF:0,Oman TV General HD
+rtsp://@192.168.0.134/?src=1&freq=12111&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,310,320,300,310
+#EXTINF:0,Oman TV Sport HD
+rtsp://@192.168.0.134/?src=1&freq=12111&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,710,720,700,710
+#EXTINF:0,Oman TV Live HD
+rtsp://@192.168.0.134/?src=1&freq=12111&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,810,820,800,810
+#EXTINF:0,Oman TV Culture HD
+rtsp://@192.168.0.134/?src=1&freq=12111&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1010,1020,1000,1010
+#EXTINF:0,OMAN General RAdio
+rtsp://@192.168.0.134/?src=1&freq=12111&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,130,101,130
+#EXTINF:0,Oman Shabab Radio
+rtsp://@192.168.0.134/?src=1&freq=12111&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,140,102,140
+#EXTINF:0,Oman English Radio
+rtsp://@192.168.0.134/?src=1&freq=12111&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,150,103,150
+#EXTINF:0,Oman Holy Quran Radio
+rtsp://@192.168.0.134/?src=1&freq=12111&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,230,201,230
+#EXTINF:0,Oman Classic Radio
+rtsp://@192.168.0.134/?src=1&freq=12111&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,222,202,222
+#EXTINF:0,Sawtoman Radio
+rtsp://@192.168.0.134/?src=1&freq=12111&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,250,203,250
+#EXTINF:0,Oman TV General HD
+rtsp://@192.168.0.134/?src=1&freq=12130&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1310,1320,101,1310
+#EXTINF:0,Oman TV Sport HD
+rtsp://@192.168.0.134/?src=1&freq=12130&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1720,1710,102,1720
+#EXTINF:0,Oman TV Live HD
+rtsp://@192.168.0.134/?src=1&freq=12130&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1810,1820,103,1810
+#EXTINF:0,Oman TV Culture HD
+rtsp://@192.168.0.134/?src=1&freq=12130&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1010,1020,104,1010
+#EXTINF:0,Oman TV General
+rtsp://@192.168.0.134/?src=1&freq=12130&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1110,1120,105,1110
+#EXTINF:0,Oman General Radio
+rtsp://@192.168.0.134/?src=1&freq=12130&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1245,115,1245
+#EXTINF:0,Oman Shabab Radio
+rtsp://@192.168.0.134/?src=1&freq=12130&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1246,116,1246
+#EXTINF:0,Oman English Radio
+rtsp://@192.168.0.134/?src=1&freq=12130&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1247,117,1247
+#EXTINF:0,Oman HolyQuran Radio
+rtsp://@192.168.0.134/?src=1&freq=12130&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1248,118,1248
+#EXTINF:0,Oman Classic Radio
+rtsp://@192.168.0.134/?src=1&freq=12130&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1249,119,1249
+#EXTINF:0,Sawtoman Radio
+rtsp://@192.168.0.134/?src=1&freq=12130&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1250,2200,1250
+#EXTINF:0,Saudi-1
+rtsp://@192.168.0.134/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,512,612,266,512
+#EXTINF:0,KSA Sports 2
+rtsp://@192.168.0.134/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,513,712,256,513
+#EXTINF:0,KSA Sport 1
+rtsp://@192.168.0.134/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,514,812,252,514
+#EXTINF:0,Al-EKhbaria
+rtsp://@192.168.0.134/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,515,912,258,515
+#EXTINF:0,Al-EKhbaria
+rtsp://@192.168.0.134/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,515,912,258,515
+#EXTINF:0,Thikrayat
+rtsp://@192.168.0.134/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,516,914,259,516
+#EXTINF:0,Saudi Ch. For Quran
+rtsp://@192.168.0.134/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2308,2309,267,2308
+#EXTINF:0,Saudi Ch. For Sunnah
+rtsp://@192.168.0.134/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2310,2311,268,2310
+#EXTINF:0,SBC
+rtsp://@192.168.0.134/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2312,2313,269,2312
+#EXTINF:0,KSA Sports +1
+rtsp://@192.168.0.134/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2314,2315,624,2314
+#EXTINF:0,Holy Quran
+rtsp://@192.168.0.134/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,613,260,613
+#EXTINF:0,Saudi Radio-1
+rtsp://@192.168.0.134/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,713,261,713
+#EXTINF:0,Saudi Radio-2
+rtsp://@192.168.0.134/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,813,262,813
+#EXTINF:0,European
+rtsp://@192.168.0.134/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,913,263,913
+#EXTINF:0,Radio-5
+rtsp://@192.168.0.134/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,915,264,915
+#EXTINF:0,Nedaa El Islam
+rtsp://@192.168.0.134/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,413,265,413
+#EXTINF:0,BBC Arabic
+rtsp://@192.168.0.134/?src=1&freq=12207&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1002,1005,103,1002
+#EXTINF:0,ALhayat
+rtsp://@192.168.0.134/?src=1&freq=12207&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1007,1008,104,1007
+#EXTINF:0,Alhilal tv
+rtsp://@192.168.0.134/?src=1&freq=12207&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,48,4112,105,8189
+#EXTINF:0,France 24
+rtsp://@192.168.0.134/?src=1&freq=12207&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1025,1026,107,1025
+#EXTINF:0,Alhayat We Alnas
+rtsp://@192.168.0.134/?src=1&freq=12207&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1009,1010,108,1009
+#EXTINF:0,AlHayat HD
+rtsp://@192.168.0.134/?src=1&freq=12207&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1019,1020,109,1019
+#EXTINF:0,Al Aoula Inter
+rtsp://@192.168.0.134/?src=1&freq=12207&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1030,1031,112,1030
+#EXTINF:0,A TV
+rtsp://@192.168.0.134/?src=1&freq=12207&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1035,1036,101,1035
+#EXTINF:0,Nessma
+rtsp://@192.168.0.134/?src=1&freq=12207&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1038,1039,102,1038
+#EXTINF:0,ALSahraa
+rtsp://@192.168.0.134/?src=1&freq=12207&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1044,1045,113,1044
+#EXTINF:0,ALhayah ALaan
+rtsp://@192.168.0.134/?src=1&freq=12207&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1047,,114,1047
+#EXTINF:0,Madrastna 2
+rtsp://@192.168.0.134/?src=1&freq=12207&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1050,1051,115,1050
+#EXTINF:0,Test
+rtsp://@192.168.0.134/?src=1&freq=12207&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1037,150,1037
+#EXTINF:0,Rotana Music
+rtsp://@192.168.0.134/?src=1&freq=12226&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2101,2102,101,2101
+#EXTINF:0,Rotana Clip
+rtsp://@192.168.0.134/?src=1&freq=12226&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2104,2105,102,2104
+#EXTINF:0,Rotana Khalijia
+rtsp://@192.168.0.134/?src=1&freq=12226&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2110,2111,104,2110
+#EXTINF:0,Rotana Classic
+rtsp://@192.168.0.134/?src=1&freq=12226&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2113,2114,105,2113
+#EXTINF:0,Rotana Drama
+rtsp://@192.168.0.134/?src=1&freq=12226&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2116,2117,106,2116
+#EXTINF:0,Rotana Cinema EGY
+rtsp://@192.168.0.134/?src=1&freq=12226&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2119,2120,107,2119
+#EXTINF:0,Rotana Cinema KSA
+rtsp://@192.168.0.134/?src=1&freq=12226&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2125,2126,109,2125
+#EXTINF:0,LBC SAT
+rtsp://@192.168.0.134/?src=1&freq=12226&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2128,2129,110,2128
+#EXTINF:0,AL Resala
+rtsp://@192.168.0.134/?src=1&freq=12226&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2131,2132,111,2131
+#EXTINF:0,Rotana FM KSA
+rtsp://@192.168.0.134/?src=1&freq=12226&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2160,114,8191
+#EXTINF:0,Palestine live
+rtsp://@192.168.0.134/?src=1&freq=12284&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,6408,6409,37,6408
+#EXTINF:0,Al Kahera Wal Nas +2
+rtsp://@192.168.0.134/?src=1&freq=12284&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,807,808,36,807
+#EXTINF:0,Majan
+rtsp://@192.168.0.134/?src=1&freq=12284&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,811,812,38,811
+#EXTINF:0,Sada ElBalad Drama
+rtsp://@192.168.0.134/?src=1&freq=12284&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,817,818,41,817
+#EXTINF:0,AL NADA TV
+rtsp://@192.168.0.134/?src=1&freq=12284&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,308,256,40,308
+#EXTINF:0,TEN
+rtsp://@192.168.0.134/?src=1&freq=12284&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,825,826,34,825
+#EXTINF:0,Extra News HD
+rtsp://@192.168.0.134/?src=1&freq=12303&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2301,2302,101,2301
+#EXTINF:0,Libya Sport 2 HD
+rtsp://@192.168.0.134/?src=1&freq=12303&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2304,2305,102,2304
+#EXTINF:0,Libya Education 
+rtsp://@192.168.0.134/?src=1&freq=12303&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2307,2308,103,2307
+#EXTINF:0,Madrasetna
+rtsp://@192.168.0.134/?src=1&freq=12303&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2310,2311,104,2310
+#EXTINF:0,ONTIME SPORTS3 HD
+rtsp://@192.168.0.134/?src=1&freq=12303&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2316,2317,106,2316
+#EXTINF:0,ONTIME SPORTS3 
+rtsp://@192.168.0.134/?src=1&freq=12303&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2319,2320,107,2319
+#EXTINF:0,Syria News
+rtsp://@192.168.0.134/?src=1&freq=12303&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2323,2324,108,2323

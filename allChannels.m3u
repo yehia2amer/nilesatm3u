@@ -1,0 +1,1514 @@
+#EXTINF:0,Almagharibia TV
+rtsp://@AmerSatIP/?src=2&freq=10727&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4722,4723,4721,4722
+#EXTINF:0,WAAR HD
+rtsp://@AmerSatIP/?src=2&freq=10727&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4742,4743,4741,4742
+#EXTINF:0,UTV Iraq
+rtsp://@AmerSatIP/?src=2&freq=10727&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4752,4753,4751,4752
+#EXTINF:0,Awraas TV channel
+rtsp://@AmerSatIP/?src=2&freq=10727&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4772,4773,4771,4772
+#EXTINF:0,AlMasar 1
+rtsp://@AmerSatIP/?src=2&freq=10727&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4782,4783,4781,4782
+#EXTINF:0,Libya Al Naga TV
+rtsp://@AmerSatIP/?src=2&freq=10727&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4792,4793,4791,4792
+#EXTINF:0,Alkomail HD channel
+rtsp://@AmerSatIP/?src=2&freq=10727&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4802,4803,4801,4802
+#EXTINF:0,MISR TV
+rtsp://@AmerSatIP/?src=2&freq=10727&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4832,4833,4831,4832
+#EXTINF:0,Dohat Al-Quraan
+rtsp://@AmerSatIP/?src=2&freq=10727&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4842,4843,4841,4842
+#EXTINF:0,Saout alaqila
+rtsp://@AmerSatIP/?src=2&freq=10727&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4902,4903,4901,4902
+#EXTINF:0,Palestine
+rtsp://@AmerSatIP/?src=2&freq=10727&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4912,4913,4911,4912
+#EXTINF:0,Shahedna TV
+rtsp://@AmerSatIP/?src=2&freq=10727&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4932,4933,4931,4932
+#EXTINF:0,Masaya Rawhanyat  
+rtsp://@AmerSatIP/?src=2&freq=10727&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4952,4953,4951,4952
+#EXTINF:0,Dawacom TV
+rtsp://@AmerSatIP/?src=2&freq=10727&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4962,4963,4961,4962
+#EXTINF:0,Kunuz Altabia TV
+rtsp://@AmerSatIP/?src=2&freq=10727&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4972,4973,4971,4972
+#EXTINF:0,ALMASA
+rtsp://@AmerSatIP/?src=2&freq=10727&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4992,4993,4991,4992
+#EXTINF:0,Kunouz tv
+rtsp://@AmerSatIP/?src=2&freq=10727&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5002,5003,5001,5002
+#EXTINF:0,Rawhanyat TV
+rtsp://@AmerSatIP/?src=2&freq=10727&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5032,5033,5031,5032
+#EXTINF:0,Al Rafidain TV
+rtsp://@AmerSatIP/?src=2&freq=10727&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5912,5913,5911,5912
+#EXTINF:0,AL MALAKOOT SAT-THE KINGDOM SAT
+rtsp://@AmerSatIP/?src=2&freq=10727&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5922,5923,5921,5922
+#EXTINF:0,Gadaa Bilisumma Channel
+rtsp://@AmerSatIP/?src=2&freq=10727&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5932,702,5931,5932
+#EXTINF:0,ZAROK TV
+rtsp://@AmerSatIP/?src=2&freq=10727&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5942,5943,5941,5942
+#EXTINF:0,ALWAQIE TV
+rtsp://@AmerSatIP/?src=2&freq=10727&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5952,5953,5951,5952
+#EXTINF:0,Al-Awhad TV
+rtsp://@AmerSatIP/?src=2&freq=10727&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,6452,6453,6451,6452
+#EXTINF:0,al kafeel
+rtsp://@AmerSatIP/?src=2&freq=10727&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,8022,8021,8022
+#EXTINF:0,Miracle TV
+rtsp://@AmerSatIP/?src=2&freq=10815&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,257,513,2305,257
+#EXTINF:0,AL ASRAR TV
+rtsp://@AmerSatIP/?src=2&freq=10815&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,771,1027,1283,771
+#EXTINF:0,AGHAPY TV
+rtsp://@AmerSatIP/?src=2&freq=10815&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,260,516,2308,260
+#EXTINF:0,Al Basira
+rtsp://@AmerSatIP/?src=2&freq=10815&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,264,520,2312,264
+#EXTINF:0,Libya Al Ahrar HD
+rtsp://@AmerSatIP/?src=2&freq=10815&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,273,529,2321,273
+#EXTINF:0,Soft
+rtsp://@AmerSatIP/?src=2&freq=10815&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,788,1044,1300,788
+#EXTINF:0,12Arabia
+rtsp://@AmerSatIP/?src=2&freq=10815&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,793,1049,1305,793
+#EXTINF:0,Menhag Alnbowa
+rtsp://@AmerSatIP/?src=2&freq=10815&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,57,56,58,57
+#EXTINF:0,Almagd TV
+rtsp://@AmerSatIP/?src=2&freq=10815&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,54,53,55,54
+#EXTINF:0,Al Karma Family
+rtsp://@AmerSatIP/?src=2&freq=10815&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,807,1063,1319,807
+#EXTINF:0,mahaba tv
+rtsp://@AmerSatIP/?src=2&freq=10815&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,308,564,2356,308
+#EXTINF:0,CTV
+rtsp://@AmerSatIP/?src=2&freq=10815&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,310,566,2358,310
+#EXTINF:0,Noursat Alchabab
+rtsp://@AmerSatIP/?src=2&freq=10815&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,312,568,2360,312
+#EXTINF:0,Qudaah
+rtsp://@AmerSatIP/?src=2&freq=10815&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,833,1089,1345,833
+#EXTINF:0,Bella
+rtsp://@AmerSatIP/?src=2&freq=10815&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,834,1090,1346,834
+#EXTINF:0,BAYA TV
+rtsp://@AmerSatIP/?src=2&freq=10815&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,835,1091,1347,835
+#EXTINF:0,Loveworld MENA
+rtsp://@AmerSatIP/?src=2&freq=10815&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,836,1092,1348,836
+#EXTINF:0,Mawda TV
+rtsp://@AmerSatIP/?src=2&freq=10815&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,838,1094,1350,838
+#EXTINF:0,Christ Army TV
+rtsp://@AmerSatIP/?src=2&freq=10815&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,328,584,2376,328
+#EXTINF:0,Beity
+rtsp://@AmerSatIP/?src=2&freq=10815&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,848,1104,1360,848
+#EXTINF:0,Mar-Cil TV
+rtsp://@AmerSatIP/?src=2&freq=10815&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,849,1105,1361,849
+#EXTINF:0,NourSat
+rtsp://@AmerSatIP/?src=2&freq=10815&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,852,1108,1364,852
+#EXTINF:0,Karameesh
+rtsp://@AmerSatIP/?src=2&freq=10815&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,854,1110,1366,854
+#EXTINF:0,Anointing TV
+rtsp://@AmerSatIP/?src=2&freq=10815&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,856,1112,1368,856
+#EXTINF:0,Nayanwa Alaan
+rtsp://@AmerSatIP/?src=2&freq=10815&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,864,1120,1376,864
+#EXTINF:0,Qatar 2
+rtsp://@AmerSatIP/?src=2&freq=10834&pol=V&msys=DVBS2&mtype=QPSK&sr=27500&pids=0,201,202,200,201
+#EXTINF:0,QATAR TV HD
+rtsp://@AmerSatIP/?src=2&freq=10834&pol=V&msys=DVBS2&mtype=QPSK&sr=27500&pids=0,401,402,400,401
+#EXTINF:0,Sout Alkhaleej 2
+rtsp://@AmerSatIP/?src=2&freq=10834&pol=V&msys=DVBS2&mtype=QPSK&sr=27500&pids=0,7102,7100,7101
+#EXTINF:0,Sout Alkhaleej 3
+rtsp://@AmerSatIP/?src=2&freq=10834&pol=V&msys=DVBS2&mtype=QPSK&sr=27500&pids=0,7202,7200,7201
+#EXTINF:0,Sout Alkhaleej 4
+rtsp://@AmerSatIP/?src=2&freq=10834&pol=V&msys=DVBS2&mtype=QPSK&sr=27500&pids=0,7302,7300,7301
+#EXTINF:0,Sout Alkhaleej Europe
+rtsp://@AmerSatIP/?src=2&freq=10834&pol=V&msys=DVBS2&mtype=QPSK&sr=27500&pids=0,7402,7400,7401
+#EXTINF:0,Qatar Radio
+rtsp://@AmerSatIP/?src=2&freq=10834&pol=V&msys=DVBS2&mtype=QPSK&sr=27500&pids=0,6002,6000,6001
+#EXTINF:0,Qatar R Quran
+rtsp://@AmerSatIP/?src=2&freq=10834&pol=V&msys=DVBS2&mtype=QPSK&sr=27500&pids=0,6102,6100,6101
+#EXTINF:0,Qatar Oryx Radio
+rtsp://@AmerSatIP/?src=2&freq=10834&pol=V&msys=DVBS2&mtype=QPSK&sr=27500&pids=0,6202,6200,6201
+#EXTINF:0,Qatar QBS Radio
+rtsp://@AmerSatIP/?src=2&freq=10834&pol=V&msys=DVBS2&mtype=QPSK&sr=27500&pids=0,6302,6300,6301
+#EXTINF:0,Qatar Urdu Radio
+rtsp://@AmerSatIP/?src=2&freq=10834&pol=V&msys=DVBS2&mtype=QPSK&sr=27500&pids=0,6402,6400,6401
+#EXTINF:0,AL RAHMA
+rtsp://@AmerSatIP/?src=2&freq=10872&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1601,2601,801,1601
+#EXTINF:0,LIBYA ALHADATH
+rtsp://@AmerSatIP/?src=2&freq=10872&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1602,2602,802,1602
+#EXTINF:0,FAMILY DRAMA
+rtsp://@AmerSatIP/?src=2&freq=10872&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1604,2604,804,1604
+#EXTINF:0,AL YOOM ZAMAN
+rtsp://@AmerSatIP/?src=2&freq=10872&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1605,2605,805,1605
+#EXTINF:0,TRT KURDI
+rtsp://@AmerSatIP/?src=2&freq=10872&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1606,2606,806,1606
+#EXTINF:0,Tunisia Nat1 HD
+rtsp://@AmerSatIP/?src=2&freq=10872&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1110,1120,807,1110
+#EXTINF:0,SCARE TV
+rtsp://@AmerSatIP/?src=2&freq=10872&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1608,2608,808,1608
+#EXTINF:0,ALQUDS TODAY TV
+rtsp://@AmerSatIP/?src=2&freq=10872&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1609,2609,809,1609
+#EXTINF:0,ZILZAL CLASSIC
+rtsp://@AmerSatIP/?src=2&freq=10872&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1612,2612,812,1612
+#EXTINF:0,AL SA3AA MOSALSALATE
+rtsp://@AmerSatIP/?src=2&freq=10872&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1615,2615,815,1615
+#EXTINF:0,LAYALI ALONS
+rtsp://@AmerSatIP/?src=2&freq=10872&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1616,2616,816,1616
+#EXTINF:0,SAUDI 24
+rtsp://@AmerSatIP/?src=2&freq=10872&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1617,2617,817,1617
+#EXTINF:0,ALL TV
+rtsp://@AmerSatIP/?src=2&freq=10872&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1620,2620,820,1620
+#EXTINF:0,ALSALAM
+rtsp://@AmerSatIP/?src=2&freq=10872&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1621,2621,821,1621
+#EXTINF:0,LIBYAS CHANNEL
+rtsp://@AmerSatIP/?src=2&freq=10872&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1622,2622,822,1622
+#EXTINF:0,DOLLY MOSALSALAT
+rtsp://@AmerSatIP/?src=2&freq=10872&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1623,2623,823,1623
+#EXTINF:0,AL SA3A MASRA7
+rtsp://@AmerSatIP/?src=2&freq=10872&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1628,2628,828,1628
+#EXTINF:0,PALESTINE TODAY
+rtsp://@AmerSatIP/?src=2&freq=10872&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1631,2631,830,1631
+#EXTINF:0,Berbere TV
+rtsp://@AmerSatIP/?src=2&freq=10872&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1632,2632,832,1632
+#EXTINF:0,ELMOLED
+rtsp://@AmerSatIP/?src=2&freq=10872&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1633,2633,833,1633
+#EXTINF:0,SHARO5AN HINDI
+rtsp://@AmerSatIP/?src=2&freq=10872&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1638,2638,838,1638
+#EXTINF:0,RADIO ANTINEA
+rtsp://@AmerSatIP/?src=2&freq=10872&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2635,835,1635
+#EXTINF:0,RADIO BERBERE
+rtsp://@AmerSatIP/?src=2&freq=10872&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2636,836,1636
+#EXTINF:0,AFAQ TV
+rtsp://@AmerSatIP/?src=2&freq=10891&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,513,1281,257,513
+#EXTINF:0,M CLASSIC
+rtsp://@AmerSatIP/?src=2&freq=10891&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,514,1282,258,514
+#EXTINF:0,Cinema Pro
+rtsp://@AmerSatIP/?src=2&freq=10891&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,515,1283,259,515
+#EXTINF:0,Al Ghadeer
+rtsp://@AmerSatIP/?src=2&freq=10891&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,516,1284,260,516
+#EXTINF:0,TOKTOK AFLAM
+rtsp://@AmerSatIP/?src=2&freq=10891&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,518,1286,262,518
+#EXTINF:0,TOKTOK CIMA
+rtsp://@AmerSatIP/?src=2&freq=10891&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,528,1296,272,528
+#EXTINF:0,ALNOJABA TV
+rtsp://@AmerSatIP/?src=2&freq=10891&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,530,1298,247,530
+#EXTINF:0,Dijlah TV
+rtsp://@AmerSatIP/?src=2&freq=10891&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,533,1301,277,533
+#EXTINF:0,SAMARRA TV
+rtsp://@AmerSatIP/?src=2&freq=10891&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,534,1302,278,534
+#EXTINF:0,AL SHARQIYA NEWS HD
+rtsp://@AmerSatIP/?src=2&freq=10891&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,563,1331,307,563
+#EXTINF:0,RUDAW TV
+rtsp://@AmerSatIP/?src=2&freq=10891&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,566,1334,310,566
+#EXTINF:0,ASIA TV
+rtsp://@AmerSatIP/?src=2&freq=10891&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,567,1341,317,567
+#EXTINF:0,AL AYAM TV
+rtsp://@AmerSatIP/?src=2&freq=10891&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,568,1342,318,568
+#EXTINF:0,AL AHAD HD
+rtsp://@AmerSatIP/?src=2&freq=10891&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5101,5102,510,5101
+#EXTINF:0,AL AHAD VOICE
+rtsp://@AmerSatIP/?src=2&freq=10891&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5202,520,8191
+#EXTINF:0,IMAM SADEQ
+rtsp://@AmerSatIP/?src=2&freq=10921&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,322,323,321,322
+#EXTINF:0,Tanasuh TV
+rtsp://@AmerSatIP/?src=2&freq=10921&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2107,2207,207,2107
+#EXTINF:0,EL BADIL TV
+rtsp://@AmerSatIP/?src=2&freq=10921&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,201,202,200,201
+#EXTINF:0,Echorouk NEWS
+rtsp://@AmerSatIP/?src=2&freq=10921&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3211,3212,3210,3211
+#EXTINF:0,Echorouk TV
+rtsp://@AmerSatIP/?src=2&freq=10921&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3221,3222,3220,3221
+#EXTINF:0,Beur TV
+rtsp://@AmerSatIP/?src=2&freq=10921&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3231,3232,3230,3231
+#EXTINF:0,Bahia TV
+rtsp://@AmerSatIP/?src=2&freq=10921&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3241,3242,3240,3241
+#EXTINF:0,EL HAYAT TV ALGERIE
+rtsp://@AmerSatIP/?src=2&freq=10921&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3261,3262,3260,3261
+#EXTINF:0,EL HEDDAF TV
+rtsp://@AmerSatIP/?src=2&freq=10921&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3281,3282,3280,3281
+#EXTINF:0,El Djazair N1
+rtsp://@AmerSatIP/?src=2&freq=10921&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3301,3302,3300,3301
+#EXTINF:0,EL DJAZAIRIA TV
+rtsp://@AmerSatIP/?src=2&freq=10921&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3321,3322,3320,3321
+#EXTINF:0,AL-MUSTAKILA
+rtsp://@AmerSatIP/?src=2&freq=10921&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4160,4120
+#EXTINF:0,EL BILAD
+rtsp://@AmerSatIP/?src=2&freq=10921&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3341,3342,3340,3341
+#EXTINF:0,Lina TV
+rtsp://@AmerSatIP/?src=2&freq=10921&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3351,3352,3350,3351
+#EXTINF:0,M24 MAROC
+rtsp://@AmerSatIP/?src=2&freq=10921&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3361,3362,3360,3361
+#EXTINF:0,SUDAN NOW 24
+rtsp://@AmerSatIP/?src=2&freq=10921&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3371,3372,3370,3371
+#EXTINF:0,ZAYTOONA
+rtsp://@AmerSatIP/?src=2&freq=10921&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3381,3382,3380,3381
+#EXTINF:0,Samira TV
+rtsp://@AmerSatIP/?src=2&freq=10921&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3391,3392,3390,3391
+#EXTINF:0,Ennahar TV
+rtsp://@AmerSatIP/?src=2&freq=10921&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3401,3402,3400,3401
+#EXTINF:0,El Fadjr TV DZ
+rtsp://@AmerSatIP/?src=2&freq=10921&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,6501,6511,250,6501
+#EXTINF:0,Tanasuh Radio
+rtsp://@AmerSatIP/?src=2&freq=10921&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2213,113,8191
+#EXTINF:0,Echorouk TV HD
+rtsp://@AmerSatIP/?src=2&freq=10992&pol=V&msys=DVBS2&mtype=8PSK&sr=5000&pids=0,1141,1142,1140,1141
+#EXTINF:0,Salam TV
+rtsp://@AmerSatIP/?src=2&freq=10992&pol=V&msys=DVBS2&mtype=8PSK&sr=5000&pids=0,1151,1152,1150,1151
+#EXTINF:0,AL ANIS TV
+rtsp://@AmerSatIP/?src=2&freq=10992&pol=V&msys=DVBS2&mtype=8PSK&sr=5000&pids=0,1191,1192,1190,1191
+#EXTINF:0,Hi-Impact TV
+rtsp://@AmerSatIP/?src=2&freq=11033&pol=V&msys=DVBS2&mtype=8PSK&sr=5000&pids=0,1101,1102,1100,1103
+#EXTINF:0,ELWATANIA TV ALGERIA
+rtsp://@AmerSatIP/?src=2&freq=11033&pol=V&msys=DVBS2&mtype=8PSK&sr=5000&pids=0,1121,1122,1120,1121
+#EXTINF:0,Radio 2M
+rtsp://@AmerSatIP/?src=2&freq=11158&pol=V&msys=DVBS2&mtype=8PSK&sr=5000&pids=0,1012,1010,1012
+#EXTINF:0,Oujda
+rtsp://@AmerSatIP/?src=2&freq=11158&pol=V&msys=DVBS2&mtype=8PSK&sr=5000&pids=0,1041,1040,1042
+#EXTINF:0,Radio Nationale
+rtsp://@AmerSatIP/?src=2&freq=11158&pol=V&msys=DVBS2&mtype=8PSK&sr=5000&pids=0,1052,1050,1052
+#EXTINF:0,Dakhla
+rtsp://@AmerSatIP/?src=2&freq=11158&pol=V&msys=DVBS2&mtype=8PSK&sr=5000&pids=0,1061,1060,1062
+#EXTINF:0,Radio Inter
+rtsp://@AmerSatIP/?src=2&freq=11158&pol=V&msys=DVBS2&mtype=8PSK&sr=5000&pids=0,1071,1070,1071
+#EXTINF:0,Radio Amazigh
+rtsp://@AmerSatIP/?src=2&freq=11158&pol=V&msys=DVBS2&mtype=8PSK&sr=5000&pids=0,1081,1080,1081
+#EXTINF:0,Radio Med VI
+rtsp://@AmerSatIP/?src=2&freq=11158&pol=V&msys=DVBS2&mtype=8PSK&sr=5000&pids=0,1091,1090,1091
+#EXTINF:0,Agadir
+rtsp://@AmerSatIP/?src=2&freq=11158&pol=V&msys=DVBS2&mtype=8PSK&sr=5000&pids=0,1101,1100,1102
+#EXTINF:0,Al-Houceima
+rtsp://@AmerSatIP/?src=2&freq=11158&pol=V&msys=DVBS2&mtype=8PSK&sr=5000&pids=0,1111,1110,1112
+#EXTINF:0,Tetouan
+rtsp://@AmerSatIP/?src=2&freq=11158&pol=V&msys=DVBS2&mtype=8PSK&sr=5000&pids=0,1121,1120,1122
+#EXTINF:0,Meknes
+rtsp://@AmerSatIP/?src=2&freq=11158&pol=V&msys=DVBS2&mtype=8PSK&sr=5000&pids=0,1131,1130,1132
+#EXTINF:0,Tanger
+rtsp://@AmerSatIP/?src=2&freq=11158&pol=V&msys=DVBS2&mtype=8PSK&sr=5000&pids=0,1141,1140,1142
+#EXTINF:0,Fes
+rtsp://@AmerSatIP/?src=2&freq=11158&pol=V&msys=DVBS2&mtype=8PSK&sr=5000&pids=0,1151,1150,1152
+#EXTINF:0,Marrakech
+rtsp://@AmerSatIP/?src=2&freq=11158&pol=V&msys=DVBS2&mtype=8PSK&sr=5000&pids=0,1161,1160,1162
+#EXTINF:0,Laayoune
+rtsp://@AmerSatIP/?src=2&freq=11158&pol=V&msys=DVBS2&mtype=8PSK&sr=5000&pids=0,1171,1170,1172
+#EXTINF:0,Casablanca
+rtsp://@AmerSatIP/?src=2&freq=11158&pol=V&msys=DVBS2&mtype=8PSK&sr=5000&pids=0,1181,1180,1182
+#EXTINF:0,RIM Maroc
+rtsp://@AmerSatIP/?src=2&freq=11158&pol=V&msys=DVBS2&mtype=8PSK&sr=5000&pids=0,1191,1190,8191
+#EXTINF:0,AJMAN HD
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,611,612,501,611
+#EXTINF:0,AL SHALLAL
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,621,622,502,621
+#EXTINF:0,RBC TV
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,641,642,504,649
+#EXTINF:0,SYRIA TV HD
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,701,702,510,701
+#EXTINF:0,YEMEN SHABAB
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,341,33,511,341
+#EXTINF:0,LIBYA ALMUSTAQBAL HD
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,741,742,514,749
+#EXTINF:0,KOREK HD
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,751,752,515,751
+#EXTINF:0,KARBALA TV HD
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,891,892,529,891
+#EXTINF:0,INEWS TV HD
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,901,902,530,901
+#EXTINF:0,AL MOHTADI TV
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,941,942,534,941
+#EXTINF:0,Alhurra HD
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1011,1012,541,1011
+#EXTINF:0,Alhurra
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1021,1022,542,1021
+#EXTINF:0,Alhurra Iraq HD
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1031,1032,543,1031
+#EXTINF:0,Alhurra Iraq
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1041,1042,544,1041
+#EXTINF:0,A one TV Jordan
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,4255,4256,556,4255
+#EXTINF:0,TRT Arabi HD
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,790,791,799,790
+#EXTINF:0,Alhuseinya Radio 
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,281,34,8191
+#EXTINF:0,Radio Sawa Future 1
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1052,545,1052
+#EXTINF:0,VOA Ethiopia
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1062,546,1062
+#EXTINF:0,VOA Djibouti MW
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1072,547,1072
+#EXTINF:0,Radio Sawa Iraq
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1082,548,1082
+#EXTINF:0,VOA Libya
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1092,549,1092
+#EXTINF:0,Radio Sawa Levant
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1102,550,1102
+#EXTINF:0,VOA French to Africa
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1112,551,1112
+#EXTINF:0,Radio Sawa VOA Sudan
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1122,552,1122
+#EXTINF:0,Radio Sawa Future 2
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1132,553,1132
+#EXTINF:0,VOA Iraq
+rtsp://@AmerSatIP/?src=2&freq=11257&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1152,555,1152
+#EXTINF:0,MBC 2
+rtsp://@AmerSatIP/?src=2&freq=11276&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4041,4042,2804,4041
+#EXTINF:0,ASHARQ NEWS CHANNEL
+rtsp://@AmerSatIP/?src=2&freq=11276&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4021,4022,4020,4021
+#EXTINF:0,ALAAN TV HD
+rtsp://@AmerSatIP/?src=2&freq=11276&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4191,4193,4190,4191
+#EXTINF:0,ZEE AFLAM
+rtsp://@AmerSatIP/?src=2&freq=11276&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4151,4152,4150,4151
+#EXTINF:0,ZEE ALWAN
+rtsp://@AmerSatIP/?src=2&freq=11276&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2821,2822,2820,2821
+#EXTINF:0,B4U AFLAM
+rtsp://@AmerSatIP/?src=2&freq=11276&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4181,4182,4180,4181
+#EXTINF:0,B4U PLUS
+rtsp://@AmerSatIP/?src=2&freq=11276&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,391,392,390,391
+#EXTINF:0,LANA TV
+rtsp://@AmerSatIP/?src=2&freq=11276&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4061,4062,4060,4061
+#EXTINF:0,ZAD TV
+rtsp://@AmerSatIP/?src=2&freq=11276&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4071,4072,4070,4071
+#EXTINF:0,AL GHAD AL MUSHREQ
+rtsp://@AmerSatIP/?src=2&freq=11276&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,405,406,404,405
+#EXTINF:0,CN ARABIA
+rtsp://@AmerSatIP/?src=2&freq=11276&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4081,4082,4080,4081
+#EXTINF:0,OSN PROMO
+rtsp://@AmerSatIP/?src=2&freq=11276&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,207,407,107,207
+#EXTINF:0,GM RADIO 1
+rtsp://@AmerSatIP/?src=2&freq=11276&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,261,260,261
+#EXTINF:0,SAWT AL JOMHURIA
+rtsp://@AmerSatIP/?src=2&freq=11276&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,271,270,271
+#EXTINF:0,ALAAN FM
+rtsp://@AmerSatIP/?src=2&freq=11276&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,282,280,282
+#EXTINF:0,Rotana Music
+rtsp://@AmerSatIP/?src=2&freq=11295&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5601,5602,1500,5601
+#EXTINF:0,Rotana Clip
+rtsp://@AmerSatIP/?src=2&freq=11295&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5604,5605,205,5604
+#EXTINF:0,Rotana Khalijia
+rtsp://@AmerSatIP/?src=2&freq=11295&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5610,5611,121,5610
+#EXTINF:0,Rotana Classic
+rtsp://@AmerSatIP/?src=2&freq=11295&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5613,5614,33,5613
+#EXTINF:0,Rotana Drama
+rtsp://@AmerSatIP/?src=2&freq=11295&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5616,5617,34,5616
+#EXTINF:0,Rotana Cinema EGY
+rtsp://@AmerSatIP/?src=2&freq=11295&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5619,5620,35,5619
+#EXTINF:0,Rotana Cinema KSA
+rtsp://@AmerSatIP/?src=2&freq=11295&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5625,5626,49,5625
+#EXTINF:0,LBC SAT
+rtsp://@AmerSatIP/?src=2&freq=11295&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5628,5629,50,5628
+#EXTINF:0,AL Resala
+rtsp://@AmerSatIP/?src=2&freq=11295&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5631,5632,38,5631
+#EXTINF:0,Rotana FM KSA
+rtsp://@AmerSatIP/?src=2&freq=11295&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5660,120,8191
+#EXTINF:0,AL SHARQIYA HD
+rtsp://@AmerSatIP/?src=2&freq=11315&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2861,2862,2860,2861
+#EXTINF:0,MBC IRAQ HD
+rtsp://@AmerSatIP/?src=2&freq=11315&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,401,402,400,401
+#EXTINF:0,MBC IRAQ
+rtsp://@AmerSatIP/?src=2&freq=11315&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2871,2872,2870,2871
+#EXTINF:0,AL RASHEED TV HD
+rtsp://@AmerSatIP/?src=2&freq=11315&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,6014,6024,140,6014
+#EXTINF:0,AL SUMARIA HD
+rtsp://@AmerSatIP/?src=2&freq=11315&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,6015,6025,150,6015
+#EXTINF:0,IRAQ 24 HD
+rtsp://@AmerSatIP/?src=2&freq=11315&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,6016,6026,160,6016
+#EXTINF:0,CATV
+rtsp://@AmerSatIP/?src=2&freq=11315&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,6017,6027,170,6017
+#EXTINF:0,CHADA TV
+rtsp://@AmerSatIP/?src=2&freq=11315&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,6018,6028,180,6018
+#EXTINF:0,KBS WORLD
+rtsp://@AmerSatIP/?src=2&freq=11315&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,6019,6029,190,6019
+#EXTINF:0,LANA PLUS
+rtsp://@AmerSatIP/?src=2&freq=11315&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,6110,6120,200,6110
+#EXTINF:0,SUMER FM
+rtsp://@AmerSatIP/?src=2&freq=11315&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,192,250,192
+#EXTINF:0,AL RASHEED RADIO
+rtsp://@AmerSatIP/?src=2&freq=11315&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,202,200,202
+#EXTINF:0,AVA TV
+rtsp://@AmerSatIP/?src=2&freq=11353&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,102,103,101,8190
+#EXTINF:0,UTV Iraq HD
+rtsp://@AmerSatIP/?src=2&freq=11353&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,202,203,201,202
+#EXTINF:0,K24 HD
+rtsp://@AmerSatIP/?src=2&freq=11353&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,502,503,501,502
+#EXTINF:0,Al-Khalij TV
+rtsp://@AmerSatIP/?src=2&freq=11353&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,602,603,601,8190
+#EXTINF:0,KURDISTAN TV
+rtsp://@AmerSatIP/?src=2&freq=11353&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,702,703,701,8190
+#EXTINF:0,ZAGROS TV HD
+rtsp://@AmerSatIP/?src=2&freq=11353&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,902,903,901,8190
+#EXTINF:0,CIRA TV
+rtsp://@AmerSatIP/?src=2&freq=11353&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1002,1003,1001,1002
+#EXTINF:0,Ronahi TV
+rtsp://@AmerSatIP/?src=2&freq=11353&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1102,1103,1101,1102
+#EXTINF:0,PAYAM TV HD
+rtsp://@AmerSatIP/?src=2&freq=11353&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1202,1203,1201,1202
+#EXTINF:0,BANGAWAZ TV
+rtsp://@AmerSatIP/?src=2&freq=11353&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1302,1303,1301,1302
+#EXTINF:0,SAT-7 KIDS
+rtsp://@AmerSatIP/?src=2&freq=11353&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1502,1503,1501,8190
+#EXTINF:0,SAT-7 ARABIC
+rtsp://@AmerSatIP/?src=2&freq=11353&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1602,1603,1601,8190
+#EXTINF:0,AlKarma Praise
+rtsp://@AmerSatIP/?src=2&freq=11353&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1702,1703,1701,8190
+#EXTINF:0,Aryen TV
+rtsp://@AmerSatIP/?src=2&freq=11353&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1902,1903,1901,1902
+#EXTINF:0,Better Life Radio
+rtsp://@AmerSatIP/?src=2&freq=11353&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,2703,2701,2703
+#EXTINF:0,RDK
+rtsp://@AmerSatIP/?src=2&freq=11353&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,3202,3201,8191
+#EXTINF:0,Praise Live
+rtsp://@AmerSatIP/?src=2&freq=11353&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,3503,3501,3503
+#EXTINF:0,AD SPORTS 3 HD
+rtsp://@AmerSatIP/?src=2&freq=11372&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,3012,3013,3011,3012
+#EXTINF:0,AD SPORTS 4 HD
+rtsp://@AmerSatIP/?src=2&freq=11372&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,3022,3023,3021,3022
+#EXTINF:0,Al Hadath HD
+rtsp://@AmerSatIP/?src=2&freq=11372&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,3032,3033,3031,3032
+#EXTINF:0,Asharq News Channel HD
+rtsp://@AmerSatIP/?src=2&freq=11372&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,3062,3063,3061,3062
+#EXTINF:0,RT ARABIC HD
+rtsp://@AmerSatIP/?src=2&freq=11372&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,3072,3073,3071,3072
+#EXTINF:0,ALMASAR TV HD
+rtsp://@AmerSatIP/?src=2&freq=11372&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,3172,3173,3171,3172
+#EXTINF:0,Asia TV HD
+rtsp://@AmerSatIP/?src=2&freq=11372&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,3141,3142,2000,3141
+#EXTINF:0,LIBYA BUSINESS HD
+rtsp://@AmerSatIP/?src=2&freq=11372&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,521,1289,63,521
+#EXTINF:0,Almajd General
+rtsp://@AmerSatIP/?src=2&freq=11372&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,524,1292,61,524
+#EXTINF:0,TURKMENELI HD
+rtsp://@AmerSatIP/?src=2&freq=11372&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,110,210,69,110
+#EXTINF:0,Medi1 TV Arabic
+rtsp://@AmerSatIP/?src=2&freq=11372&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,8061,8062,8060,8061
+#EXTINF:0,SHEHAB TV HD
+rtsp://@AmerSatIP/?src=2&freq=11372&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,661,662,660,661
+#EXTINF:0,Atfal & Mawaheb
+rtsp://@AmerSatIP/?src=2&freq=11372&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,3531,3532,3530,3531
+#EXTINF:0,AL ALAM TV HD
+rtsp://@AmerSatIP/?src=2&freq=11372&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,3541,3542,3540,8190
+#EXTINF:0,TURKMENELI Radio
+rtsp://@AmerSatIP/?src=2&freq=11372&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,8042,71,8191
+#EXTINF:0,MEDI1RADIO AFRIQUE
+rtsp://@AmerSatIP/?src=2&freq=11372&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,8072,8070,8072
+#EXTINF:0,YEMEN SHABAB
+rtsp://@AmerSatIP/?src=2&freq=11391&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1400,2400,700,1400
+#EXTINF:0,NuuralHudaa TV
+rtsp://@AmerSatIP/?src=2&freq=11391&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1401,2401,701,1401
+#EXTINF:0,Alkarma Discipleship
+rtsp://@AmerSatIP/?src=2&freq=11391&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1402,2402,702,1402
+#EXTINF:0,AL MAYADEEN TV
+rtsp://@AmerSatIP/?src=2&freq=11391&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1403,2403,703,1403
+#EXTINF:0,WION HD
+rtsp://@AmerSatIP/?src=2&freq=11391&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1404,2404,704,1404
+#EXTINF:0,SHEHAB TV
+rtsp://@AmerSatIP/?src=2&freq=11391&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1405,2405,705,1405
+#EXTINF:0,Al Hayat
+rtsp://@AmerSatIP/?src=2&freq=11391&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1406,2406,706,1406
+#EXTINF:0,TVISLAAMAA
+rtsp://@AmerSatIP/?src=2&freq=11391&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1407,2407,707,1407
+#EXTINF:0,SBN Global
+rtsp://@AmerSatIP/?src=2&freq=11391&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1409,2409,709,1409
+#EXTINF:0,MTA3
+rtsp://@AmerSatIP/?src=2&freq=11391&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1410,2410,710,1410
+#EXTINF:0,ALIMAN TV
+rtsp://@AmerSatIP/?src=2&freq=11391&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1412,2412,712,1412
+#EXTINF:0,ALKOFIYA
+rtsp://@AmerSatIP/?src=2&freq=11391&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1413,2413,713,1413
+#EXTINF:0,LIBYA PANORAMA SD
+rtsp://@AmerSatIP/?src=2&freq=11391&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1414,2414,714,1414
+#EXTINF:0,BELADI TV
+rtsp://@AmerSatIP/?src=2&freq=11391&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1417,2417,717,1417
+#EXTINF:0,AL KAWTHAR
+rtsp://@AmerSatIP/?src=2&freq=11391&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1419,2419,719,1419
+#EXTINF:0,WESAL TV
+rtsp://@AmerSatIP/?src=2&freq=11391&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1422,2422,722,1422
+#EXTINF:0,TRT Arabi
+rtsp://@AmerSatIP/?src=2&freq=11391&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1425,2425,725,1425
+#EXTINF:0,Hala London
+rtsp://@AmerSatIP/?src=2&freq=11391&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1426,2426,726,1426
+#EXTINF:0,AL ALAM TV SD
+rtsp://@AmerSatIP/?src=2&freq=11391&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1428,2428,728,1428
+#EXTINF:0,AL BACHAEER RADIO
+rtsp://@AmerSatIP/?src=2&freq=11391&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2420,720,8191
+#EXTINF:0,Abu Dhabi TV HD
+rtsp://@AmerSatIP/?src=2&freq=11411&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,100,101,110,100
+#EXTINF:0,Al Emarat TV HD
+rtsp://@AmerSatIP/?src=2&freq=11411&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,200,201,210,200
+#EXTINF:0,Majid Kids TV HD
+rtsp://@AmerSatIP/?src=2&freq=11411&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,300,301,310,300
+#EXTINF:0,AD DRAMA HD
+rtsp://@AmerSatIP/?src=2&freq=11411&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,400,401,410,400
+#EXTINF:0,AD Sport 1 HD
+rtsp://@AmerSatIP/?src=2&freq=11411&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,500,501,510,500
+#EXTINF:0,AD Sport 2 HD
+rtsp://@AmerSatIP/?src=2&freq=11411&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,600,601,610,600
+#EXTINF:0,YAS Sports HD
+rtsp://@AmerSatIP/?src=2&freq=11411&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,700,701,710,700
+#EXTINF:0,AD Nat Geo HD
+rtsp://@AmerSatIP/?src=2&freq=11411&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,800,801,810,800
+#EXTINF:0,Al Aoula Inter HD
+rtsp://@AmerSatIP/?src=2&freq=11474&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,101,102,100,101
+#EXTINF:0,2M TV
+rtsp://@AmerSatIP/?src=2&freq=11474&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,201,202,200,201
+#EXTINF:0,Arryadia
+rtsp://@AmerSatIP/?src=2&freq=11474&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,301,302,300,301
+#EXTINF:0,Arrabiaa
+rtsp://@AmerSatIP/?src=2&freq=11474&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,401,402,400,401
+#EXTINF:0,AL MAGHRIBIA
+rtsp://@AmerSatIP/?src=2&freq=11474&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,501,502,500,501
+#EXTINF:0,ASSADISSA
+rtsp://@AmerSatIP/?src=2&freq=11474&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,601,602,600,601
+#EXTINF:0,Tamazight
+rtsp://@AmerSatIP/?src=2&freq=11474&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,801,802,800,801
+#EXTINF:0,Al Aoula Inter
+rtsp://@AmerSatIP/?src=2&freq=11474&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1101,1102,1100,1101
+#EXTINF:0,Laayoune TV
+rtsp://@AmerSatIP/?src=2&freq=11474&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1201,1202,1200,1201
+#EXTINF:0,Al Aoula Inter HD
+rtsp://@AmerSatIP/?src=2&freq=11514&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,101,102,100,101
+#EXTINF:0,Laayoune TV HD
+rtsp://@AmerSatIP/?src=2&freq=11514&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1201,1202,1200,1201
+#EXTINF:0,Arryadia HD
+rtsp://@AmerSatIP/?src=2&freq=11514&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,3002,3003,3000,3002
+#EXTINF:0,Athaqafia HD
+rtsp://@AmerSatIP/?src=2&freq=11514&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,4001,4002,4000,4001
+#EXTINF:0,Al Maghribia HD
+rtsp://@AmerSatIP/?src=2&freq=11514&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,5001,5002,5000,5001
+#EXTINF:0,Assadissa HD
+rtsp://@AmerSatIP/?src=2&freq=11514&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,6001,6002,6000,6001
+#EXTINF:0,Tamazight HD
+rtsp://@AmerSatIP/?src=2&freq=11514&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,8001,8002,8000,8001
+#EXTINF:0,Medi1 TV Maghreb HD
+rtsp://@AmerSatIP/?src=2&freq=11514&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1901,1902,900,1901
+#EXTINF:0,Medi1 Radio Maghreb
+rtsp://@AmerSatIP/?src=2&freq=11514&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1001,1000,1001
+#EXTINF:0,AHWAZNA TV
+rtsp://@AmerSatIP/?src=2&freq=11526&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1303,2203,603,1303
+#EXTINF:0,BELQEES
+rtsp://@AmerSatIP/?src=2&freq=11526&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1207,2207,607,1207
+#EXTINF:0,AL ALAM
+rtsp://@AmerSatIP/?src=2&freq=11526&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1208,2208,608,1208
+#EXTINF:0,SAUDI 24
+rtsp://@AmerSatIP/?src=2&freq=11526&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1209,2209,609,1209
+#EXTINF:0,AL JAMAHIRIA TV
+rtsp://@AmerSatIP/?src=2&freq=11526&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1217,2217,617,1217
+#EXTINF:0,Majid
+rtsp://@AmerSatIP/?src=2&freq=11526&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1221,2221,621,1221
+#EXTINF:0,Abu Dhabi TV
+rtsp://@AmerSatIP/?src=2&freq=11526&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1222,2222,622,1222
+#EXTINF:0,Emarat TV
+rtsp://@AmerSatIP/?src=2&freq=11526&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1223,2223,623,1223
+#EXTINF:0,Abu Dhabi Sports 1
+rtsp://@AmerSatIP/?src=2&freq=11526&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1224,2224,624,1224
+#EXTINF:0,Abu Dhabi Drama
+rtsp://@AmerSatIP/?src=2&freq=11526&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1225,2225,625,1225
+#EXTINF:0,Abu Dhabi Sports 2
+rtsp://@AmerSatIP/?src=2&freq=11526&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1226,2226,626,1226
+#EXTINF:0,National Geographic Abu Dhabi
+rtsp://@AmerSatIP/?src=2&freq=11526&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1227,2227,627,1227
+#EXTINF:0,Tayba TV
+rtsp://@AmerSatIP/?src=2&freq=11526&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1243,2243,643,1243
+#EXTINF:0,RADIO MARIAM ARABIC
+rtsp://@AmerSatIP/?src=2&freq=11526&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2201,601,8191
+#EXTINF:0,Quran Kareem
+rtsp://@AmerSatIP/?src=2&freq=11526&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2228,628,2228
+#EXTINF:0,Al Hadath
+rtsp://@AmerSatIP/?src=2&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,101,102,100,101
+#EXTINF:0,Al Arabiya
+rtsp://@AmerSatIP/?src=2&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,201,202,200,201
+#EXTINF:0,MBC 5
+rtsp://@AmerSatIP/?src=2&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,301,302,300,301
+#EXTINF:0,MBC 4
+rtsp://@AmerSatIP/?src=2&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,401,402,400,401
+#EXTINF:0,MBC 3
+rtsp://@AmerSatIP/?src=2&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,501,502,500,501
+#EXTINF:0,MBC Action
+rtsp://@AmerSatIP/?src=2&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,601,602,600,601
+#EXTINF:0,MBC 2
+rtsp://@AmerSatIP/?src=2&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,701,702,700,701
+#EXTINF:0,MBC MAX
+rtsp://@AmerSatIP/?src=2&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,801,802,800,801
+#EXTINF:0,MBC Bollywood
+rtsp://@AmerSatIP/?src=2&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,901,902,900,901
+#EXTINF:0,MBC Drama
+rtsp://@AmerSatIP/?src=2&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1001,1002,1000,1001
+#EXTINF:0,Coming Soon
+rtsp://@AmerSatIP/?src=2&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1101,1102,1100,1101
+#EXTINF:0,Wanasah
+rtsp://@AmerSatIP/?src=2&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1201,1202,1200,1201
+#EXTINF:0,AL TALEAA TV
+rtsp://@AmerSatIP/?src=2&freq=11602&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2025,3025,1025,2025
+#EXTINF:0,ALOMDAH TV
+rtsp://@AmerSatIP/?src=2&freq=11602&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,421,422,34,421
+#EXTINF:0,SMTV
+rtsp://@AmerSatIP/?src=2&freq=11602&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,441,442,304,441
+#EXTINF:0,TV TCHAD
+rtsp://@AmerSatIP/?src=2&freq=11602&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,621,622,322,621
+#EXTINF:0,AL SIRAT TV
+rtsp://@AmerSatIP/?src=2&freq=11602&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,631,632,323,631
+#EXTINF:0,Libya Febrayer
+rtsp://@AmerSatIP/?src=2&freq=11602&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,661,662,326,661
+#EXTINF:0,Alqanat 9
+rtsp://@AmerSatIP/?src=2&freq=11602&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,701,702,330,701
+#EXTINF:0,Almahriah
+rtsp://@AmerSatIP/?src=2&freq=11602&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,801,802,340,801
+#EXTINF:0,Almahriah HD
+rtsp://@AmerSatIP/?src=2&freq=11602&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,811,812,341,811
+#EXTINF:0,Angel TV Arabia
+rtsp://@AmerSatIP/?src=2&freq=11602&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2603,3603,1603,2603
+#EXTINF:0,ERISAT
+rtsp://@AmerSatIP/?src=2&freq=11602&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2604,3604,1604,2604
+#EXTINF:0,Libya Abnaa Al Balad
+rtsp://@AmerSatIP/?src=2&freq=11602&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2605,3605,1605,2605
+#EXTINF:0,Sawt Alitra
+rtsp://@AmerSatIP/?src=2&freq=11602&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2606,3606,1606,2606
+#EXTINF:0,Babylon TV
+rtsp://@AmerSatIP/?src=2&freq=11602&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2607,3607,1607,2607
+#EXTINF:0,New Vision
+rtsp://@AmerSatIP/?src=2&freq=11602&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2608,3608,1608,2608
+#EXTINF:0,SUHAIL TV
+rtsp://@AmerSatIP/?src=2&freq=11602&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2609,3609,1609,2609
+#EXTINF:0,TAHA 
+rtsp://@AmerSatIP/?src=2&freq=11602&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2610,3610,1610,2610
+#EXTINF:0,ADEN TV
+rtsp://@AmerSatIP/?src=2&freq=11602&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2611,3611,1611,2611
+#EXTINF:0,KTO
+rtsp://@AmerSatIP/?src=2&freq=11602&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2612,3612,1612,2612
+#EXTINF:0,TCHAD Radio
+rtsp://@AmerSatIP/?src=2&freq=11602&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,612,321,612
+#EXTINF:0,ALHOUDA
+rtsp://@AmerSatIP/?src=2&freq=11602&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,633,332,8191
+#EXTINF:0,IFILM ARABIC
+rtsp://@AmerSatIP/?src=2&freq=11641&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,511,512,401,511
+#EXTINF:0,ETIHAD TV
+rtsp://@AmerSatIP/?src=2&freq=11641&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,521,522,402,521
+#EXTINF:0,AL THAQALAYN TV
+rtsp://@AmerSatIP/?src=2&freq=11641&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,541,542,404,541
+#EXTINF:0,HodHod  TV
+rtsp://@AmerSatIP/?src=2&freq=11641&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,561,562,406,561
+#EXTINF:0,SAHAR KURDI
+rtsp://@AmerSatIP/?src=2&freq=11641&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,611,612,411,611
+#EXTINF:0,Al Janoubia IRAQ
+rtsp://@AmerSatIP/?src=2&freq=11641&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,621,622,412,621
+#EXTINF:0,AL ESHRAQ TV
+rtsp://@AmerSatIP/?src=2&freq=11641&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,631,632,413,631
+#EXTINF:0,DUA CHANNEL
+rtsp://@AmerSatIP/?src=2&freq=11641&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,641,642,414,641
+#EXTINF:0,NABA TV
+rtsp://@AmerSatIP/?src=2&freq=11641&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,681,682,418,681
+#EXTINF:0,AL QAMAR
+rtsp://@AmerSatIP/?src=2&freq=11641&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,691,692,419,691
+#EXTINF:0,AL ALAM SYRIA TV
+rtsp://@AmerSatIP/?src=2&freq=11641&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,731,732,423,731
+#EXTINF:0,AL SAHAT
+rtsp://@AmerSatIP/?src=2&freq=11641&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,751,733,424,751
+#EXTINF:0,PRESS TV
+rtsp://@AmerSatIP/?src=2&freq=11641&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,761,762,426,761
+#EXTINF:0,ALNAEEM TV
+rtsp://@AmerSatIP/?src=2&freq=11641&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,791,792,429,791
+#EXTINF:0,ASIL TV
+rtsp://@AmerSatIP/?src=2&freq=11641&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4011,1002,4010,4011
+#EXTINF:0,AL MAAREF
+rtsp://@AmerSatIP/?src=2&freq=11641&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4031,4032,4030,4031
+#EXTINF:0,AL AMAL
+rtsp://@AmerSatIP/?src=2&freq=11641&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,802,430,802
+#EXTINF:0,Tunisia NAT 1
+rtsp://@AmerSatIP/?src=2&freq=11658&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,101,102,100,101
+#EXTINF:0,Elhiwar Ettounsi
+rtsp://@AmerSatIP/?src=2&freq=11658&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,201,202,200,201
+#EXTINF:0,TUNISNA
+rtsp://@AmerSatIP/?src=2&freq=11658&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,301,302,300,301
+#EXTINF:0,Attessia TV
+rtsp://@AmerSatIP/?src=2&freq=11658&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,401,402,400,401
+#EXTINF:0,Tunisia Educ 1
+rtsp://@AmerSatIP/?src=2&freq=11658&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,501,502,500,501
+#EXTINF:0,Tunisia NAT 2
+rtsp://@AmerSatIP/?src=2&freq=11658&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,601,602,600,601
+#EXTINF:0,Telvza TV
+rtsp://@AmerSatIP/?src=2&freq=11658&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,701,702,700,701
+#EXTINF:0,AL JANOUBIA TV
+rtsp://@AmerSatIP/?src=2&freq=11658&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,801,802,800,801
+#EXTINF:0,Carthage+
+rtsp://@AmerSatIP/?src=2&freq=11658&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,901,902,900,901
+#EXTINF:0,Al Insen TV
+rtsp://@AmerSatIP/?src=2&freq=11658&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1001,1002,1000,1001
+#EXTINF:0,HANNIBAL TV
+rtsp://@AmerSatIP/?src=2&freq=11658&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1101,1102,1100,1101
+#EXTINF:0,R Tunisie Nationale
+rtsp://@AmerSatIP/?src=2&freq=11658&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,303,300,303
+#EXTINF:0,R Tunisie Internationale
+rtsp://@AmerSatIP/?src=2&freq=11658&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,503,500,503
+#EXTINF:0,R Tunisie Culture
+rtsp://@AmerSatIP/?src=2&freq=11658&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,703,700,703
+#EXTINF:0,PROGRAMME NATIONAL
+rtsp://@AmerSatIP/?src=2&freq=11679&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,513,641,100,513
+#EXTINF:0,CANAL ALGERIE
+rtsp://@AmerSatIP/?src=2&freq=11679&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,515,680,200,515
+#EXTINF:0,TV 4
+rtsp://@AmerSatIP/?src=2&freq=11679&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,517,660,400,517
+#EXTINF:0,TV 5
+rtsp://@AmerSatIP/?src=2&freq=11679&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,516,650,500,516
+#EXTINF:0,TV 6 HD
+rtsp://@AmerSatIP/?src=2&freq=11679&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,512,640,600,512
+#EXTINF:0,TV7 ELMAARIFA
+rtsp://@AmerSatIP/?src=2&freq=11679&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,701,702,700,701
+#EXTINF:0,TV8 EDHAKIRA
+rtsp://@AmerSatIP/?src=2&freq=11679&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,801,802,800,801
+#EXTINF:0,A3 HD
+rtsp://@AmerSatIP/?src=2&freq=11679&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,101,110,2048,101
+#EXTINF:0,CHAINE 1
+rtsp://@AmerSatIP/?src=2&freq=11679&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,685,1100,685
+#EXTINF:0,CHAINE 2 
+rtsp://@AmerSatIP/?src=2&freq=11679&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,661,1200,661
+#EXTINF:0,CHAINE 3 
+rtsp://@AmerSatIP/?src=2&freq=11679&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,671,1300,671
+#EXTINF:0,RADIO RAI / CULTURE
+rtsp://@AmerSatIP/?src=2&freq=11679&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1601,1600,1601
+#EXTINF:0,RADIO INTERNATIONALE 
+rtsp://@AmerSatIP/?src=2&freq=11679&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,683,1700,683
+#EXTINF:0,RADIO JEUNESSE 
+rtsp://@AmerSatIP/?src=2&freq=11679&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1901,1900,1901
+#EXTINF:0,RADIO CORAN
+rtsp://@AmerSatIP/?src=2&freq=11679&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2001,2000,2001
+#EXTINF:0,DUBAI SPORTS 1 HD
+rtsp://@AmerSatIP/?src=2&freq=12322&pol=V&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,621,622,623,621
+#EXTINF:0,Dubai TV HD
+rtsp://@AmerSatIP/?src=2&freq=12322&pol=V&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,631,632,635,631
+#EXTINF:0,DUBAI RACING 1 HD
+rtsp://@AmerSatIP/?src=2&freq=12322&pol=V&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,641,642,645,641
+#EXTINF:0,Madani TV
+rtsp://@AmerSatIP/?src=2&freq=12322&pol=V&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,671,672,670,671
+#EXTINF:0,SAMA DUBAI HD
+rtsp://@AmerSatIP/?src=2&freq=12322&pol=V&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,701,702,700,701
+#EXTINF:0,AL DAFRA HD
+rtsp://@AmerSatIP/?src=2&freq=12322&pol=V&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,801,802,800,801
+#EXTINF:0,Fujairah TV HD
+rtsp://@AmerSatIP/?src=2&freq=12322&pol=V&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,811,812,810,811
+#EXTINF:0,Baynounah TV HD
+rtsp://@AmerSatIP/?src=2&freq=12322&pol=V&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,901,902,900,901
+#EXTINF:0,HALA LONDON
+rtsp://@AmerSatIP/?src=2&freq=12322&pol=V&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,851,852,850,851
+#EXTINF:0,Zayed Quran
+rtsp://@AmerSatIP/?src=2&freq=12322&pol=V&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,1511,1510,1511
+#EXTINF:0,Fujairah FM
+rtsp://@AmerSatIP/?src=2&freq=12322&pol=V&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,1521,1520,1521
+#EXTINF:0,Sama FM
+rtsp://@AmerSatIP/?src=2&freq=12322&pol=V&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,1531,1530,1531
+#EXTINF:0,Nilesat Promo
+rtsp://@AmerSatIP/?src=2&freq=12360&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3341,3342,3340,3341
+#EXTINF:0,alnassr 24 tv
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4126,4226,33,4126
+#EXTINF:0,Altaghier HD
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4101,4201,101,4101
+#EXTINF:0,Makkah TV
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4102,4202,110,4102
+#EXTINF:0,RO`YA
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4106,4206,103,4106
+#EXTINF:0,Libya 218 News
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3811,3821,137,3811
+#EXTINF:0,Khaleej Arab 1
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4108,4208,290,8190
+#EXTINF:0,Ahlu Al-Quran
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,112,212,32,112
+#EXTINF:0,LIBYA 218
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4112,4211,130,4112
+#EXTINF:0,Al-Dawaeia TV
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4114,4214,114,8190
+#EXTINF:0,JORDAN NOW
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4120,4220,120,8190
+#EXTINF:0,Tunisie Televsion 1
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4121,4221,121,8190
+#EXTINF:0,Taqwa TV
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4123,4223,123,8190
+#EXTINF:0,Kunuz Al-Jannah
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4125,4225,125,8190
+#EXTINF:0,JORDAN SAMA
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4128,4228,128,8190
+#EXTINF:0,MBcode TV
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4134,4240,133,8190
+#EXTINF:0,Dzair Jannah
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4135,4241,134,4135
+#EXTINF:0,AL Ghufran Tv
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5154,351,264,5154
+#EXTINF:0,Darsak 1
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5171,5172,2177,5171
+#EXTINF:0,Jordan Sport HD
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5170,5169,2176,5170
+#EXTINF:0,Jordan Amen
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5415,5416,281,5415
+#EXTINF:0,AL HAQEQA AL DAWLIAH
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,392,648,136,392
+#EXTINF:0,ALHAQIQA
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5417,5424,162,5417
+#EXTINF:0,Al-Etejah TV
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,6200,5200,285,6200
+#EXTINF:0,Oyoun AlWatan
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,6201,5202,286,6201
+#EXTINF:0,Hadramout TV
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,34,39,35,34
+#EXTINF:0,El Adjwaa TV
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4136,4242,164,4136
+#EXTINF:0,VOA 24
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4233,132,4233
+#EXTINF:0,AlWASAT RAdio
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,666,144,666
+#EXTINF:0,Hayat FM
+rtsp://@AmerSatIP/?src=2&freq=12398&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5206,288,5206
+#EXTINF:0,Nilesat Promo
+rtsp://@AmerSatIP/?src=2&freq=12417&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,201,401,200,201
+#EXTINF:0,Abu Dhabi TV HD
+rtsp://@AmerSatIP/?src=2&freq=12467&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,100,101,110,100
+#EXTINF:0,Al Emarat TV HD
+rtsp://@AmerSatIP/?src=2&freq=12467&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,200,201,210,200
+#EXTINF:0,Majid Kids TV HD
+rtsp://@AmerSatIP/?src=2&freq=12467&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,300,301,310,300
+#EXTINF:0,AD DRAMA HD
+rtsp://@AmerSatIP/?src=2&freq=12467&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,400,401,410,400
+#EXTINF:0,AD Sport 1 HD
+rtsp://@AmerSatIP/?src=2&freq=12467&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,500,501,510,500
+#EXTINF:0,AD Sport 2 HD
+rtsp://@AmerSatIP/?src=2&freq=12467&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,600,601,610,600
+#EXTINF:0,YAS Sports HD
+rtsp://@AmerSatIP/?src=2&freq=12467&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,700,701,710,700
+#EXTINF:0,AD Nat Geo HD
+rtsp://@AmerSatIP/?src=2&freq=12467&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,800,801,810,800
+#EXTINF:0,EDUC 1
+rtsp://@AmerSatIP/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1001,1201,101,1001
+#EXTINF:0,Eriteria TV
+rtsp://@AmerSatIP/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1002,1202,102,1002
+#EXTINF:0,Sudan TV
+rtsp://@AmerSatIP/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1003,1203,103,1003
+#EXTINF:0,Yemen
+rtsp://@AmerSatIP/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1004,1204,104,1104
+#EXTINF:0,ALSAHA
+rtsp://@AmerSatIP/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1005,1205,105,1005
+#EXTINF:0,Al Ahly HD
+rtsp://@AmerSatIP/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1006,1206,106,1006
+#EXTINF:0,Al Arabiya
+rtsp://@AmerSatIP/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1007,1207,107,1007
+#EXTINF:0,Al-Arabiya Alhadath
+rtsp://@AmerSatIP/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1008,1208,108,1008
+#EXTINF:0,MDEEH
+rtsp://@AmerSatIP/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1009,1209,109,1009
+#EXTINF:0,Samraa
+rtsp://@AmerSatIP/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1010,1011,110,1010
+#EXTINF:0,Yemen Today
+rtsp://@AmerSatIP/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1111,1311,111,1111
+#EXTINF:0,Al Mustafa
+rtsp://@AmerSatIP/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1026,1028,112,1026
+#EXTINF:0,Al Ahly SD
+rtsp://@AmerSatIP/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1029,1030,113,1029
+#EXTINF:0,Al Forat
+rtsp://@AmerSatIP/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1016,1017,114,1016
+#EXTINF:0,Alforat R
+rtsp://@AmerSatIP/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2023,127,2023
+#EXTINF:0,Umdorman Radio
+rtsp://@AmerSatIP/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2022,129,8191
+#EXTINF:0,ERI Radio1
+rtsp://@AmerSatIP/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2020,128,2020
+#EXTINF:0,ERI Radio 2
+rtsp://@AmerSatIP/?src=1&freq=11746&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2025,130,2025
+#EXTINF:0,Al Kahera Wal Nas
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3088,3089,200,3088
+#EXTINF:0,AL oula
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1001,1201,101,1001
+#EXTINF:0,AL Oula HD
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3002,3001,103,3002
+#EXTINF:0,Nile Family
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1005,1205,105,1005
+#EXTINF:0,Egyptian TV SD
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1006,1206,106,1006
+#EXTINF:0,Azhari
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3006,1305,130,3006
+#EXTINF:0,BBCW
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1022,1222,522,1022
+#EXTINF:0,Libya Alwataniya
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1023,1024,124,1023
+#EXTINF:0,Libya Sport Channel
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3085,3086,125,3085
+#EXTINF:0,AL-bernameg AL-aam
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,412,151,8191
+#EXTINF:0,AL-Quran AL_Karem
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1501,152,8191
+#EXTINF:0,Sout AL-arab
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3070,153,8191
+#EXTINF:0,AL-Sharg AL-awsat
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1403,155,8191
+#EXTINF:0,AL-bernameg AL-orobi
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1503,156,8191
+#EXTINF:0,AL-shabab W Al-reyadah
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1405,159,8191
+#EXTINF:0,Eductional channel
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1406,161,8191
+#EXTINF:0,AL-Kahera Al-Kobra
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1506,162,8191
+#EXTINF:0,AL-Bernameg AL-moussekey
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1407,163,8191
+#EXTINF:0,AL-Aghani
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1507,164,8191
+#EXTINF:0,AL-Menia
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1408,165,8191
+#EXTINF:0,Wadi Al-Neil & Palestine
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1508,166,8191
+#EXTINF:0,Matrouh
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1303,187,8191
+#EXTINF:0,North Sinai
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1304,189,8191
+#EXTINF:0,South Sinai
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1308,190,8191
+#EXTINF:0,Maspero FM & Thakafy
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1002,192,8191
+#EXTINF:0,Libya Alwatania Radio
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3010,126,8191
+#EXTINF:0,ELRADIO 9090
+rtsp://@AmerSatIP/?src=1&freq=11765&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1009,172,8191
+#EXTINF:0,Al-Nahar One
+rtsp://@AmerSatIP/?src=1&freq=11785&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1801,1901,801,1801
+#EXTINF:0,Al-Nahar Drama
+rtsp://@AmerSatIP/?src=1&freq=11785&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1802,1902,802,1802
+#EXTINF:0,CBC
+rtsp://@AmerSatIP/?src=1&freq=11785&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1803,1903,803,1803
+#EXTINF:0,CBC Sofra
+rtsp://@AmerSatIP/?src=1&freq=11785&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1804,1904,804,1804
+#EXTINF:0,CBC Drama
+rtsp://@AmerSatIP/?src=1&freq=11785&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1805,1905,805,1805
+#EXTINF:0,Extra News
+rtsp://@AmerSatIP/?src=1&freq=11785&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1806,1906,806,1806
+#EXTINF:0,Alhayat Muslsalat
+rtsp://@AmerSatIP/?src=1&freq=11785&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1807,1907,807,1807
+#EXTINF:0,SPACETOON ARABIC
+rtsp://@AmerSatIP/?src=1&freq=11785&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1003,1004,63,1003
+#EXTINF:0,Mix
+rtsp://@AmerSatIP/?src=1&freq=11785&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1809,1909,809,1809
+#EXTINF:0,CNBC ARABIYA
+rtsp://@AmerSatIP/?src=1&freq=11785&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2300,2301,75,2300
+#EXTINF:0,AL SHARQIYA
+rtsp://@AmerSatIP/?src=1&freq=11785&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,77,113,116,77
+#EXTINF:0,Nick Jr HD
+rtsp://@AmerSatIP/?src=1&freq=11804&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,1101,501,101,1101
+#EXTINF:0,Discovery Family HD
+rtsp://@AmerSatIP/?src=1&freq=11804&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,202,402,102,202
+#EXTINF:0,OSN Binge
+rtsp://@AmerSatIP/?src=1&freq=11804&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,203,403,103,203
+#EXTINF:0,Nat Geo Wild HD
+rtsp://@AmerSatIP/?src=1&freq=11804&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,204,504,104,204
+#EXTINF:0,Nat Geo People HD
+rtsp://@AmerSatIP/?src=1&freq=11804&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,205,505,105,205
+#EXTINF:0,Nat Geo HD
+rtsp://@AmerSatIP/?src=1&freq=11804&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,206,506,106,206
+#EXTINF:0,Star Movies HD
+rtsp://@AmerSatIP/?src=1&freq=11804&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,207,507,107,207
+#EXTINF:0,Paramount HD
+rtsp://@AmerSatIP/?src=1&freq=11804&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,208,408,108,208
+#EXTINF:0,Comedy Central HD
+rtsp://@AmerSatIP/?src=1&freq=11804&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,209,409,109,209
+#EXTINF:0,MBN Alhurra HD
+rtsp://@AmerSatIP/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1018,50,102,1018
+#EXTINF:0,Palestine
+rtsp://@AmerSatIP/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3092,3093,103,3092
+#EXTINF:0,A-Nahar Cinema
+rtsp://@AmerSatIP/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1005,1007,104,1005
+#EXTINF:0,Egyptian TV HD
+rtsp://@AmerSatIP/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1117,1118,105,1117
+#EXTINF:0,MBC Masr 2
+rtsp://@AmerSatIP/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1015,1016,106,1015
+#EXTINF:0,Al Mawsleya
+rtsp://@AmerSatIP/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1009,1003,107,1009
+#EXTINF:0,ALSeha Waljamal
+rtsp://@AmerSatIP/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1010,2000,108,1010
+#EXTINF:0,Mehwer
+rtsp://@AmerSatIP/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1004,1013,111,1004
+#EXTINF:0,AlHadath Alyoum
+rtsp://@AmerSatIP/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1020,1023,112,1020
+#EXTINF:0,Sada ElBalad 3
+rtsp://@AmerSatIP/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1006,1008,113,1006
+#EXTINF:0,Sada El Balad
+rtsp://@AmerSatIP/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1012,1014,122,1012
+#EXTINF:0,Sada El Balad 2
+rtsp://@AmerSatIP/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1021,1022,123,1021
+#EXTINF:0,VOA IRAQ
+rtsp://@AmerSatIP/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1126,114,1126
+#EXTINF:0,Palestine Radio
+rtsp://@AmerSatIP/?src=1&freq=11823&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5001,152,8191
+#EXTINF:0,TeN TV
+rtsp://@AmerSatIP/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1230,1232,101,1230
+#EXTINF:0,Moga
+rtsp://@AmerSatIP/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1235,1237,108,1235
+#EXTINF:0,Nile News
+rtsp://@AmerSatIP/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1002,1202,102,1002
+#EXTINF:0,Nile Comedy
+rtsp://@AmerSatIP/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1003,3032,103,1003
+#EXTINF:0,Nile Life
+rtsp://@AmerSatIP/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3041,3043,104,3041
+#EXTINF:0,Nile Drama
+rtsp://@AmerSatIP/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3051,3053,105,3051
+#EXTINF:0,Nile Sport
+rtsp://@AmerSatIP/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3061,3063,106,3061
+#EXTINF:0,Nile Culture
+rtsp://@AmerSatIP/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3071,3072,107,3071
+#EXTINF:0,Nile Cinema
+rtsp://@AmerSatIP/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1022,1222,110,1022
+#EXTINF:0,Maspero Zaman
+rtsp://@AmerSatIP/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3003,3004,111,3003
+#EXTINF:0,SAFA TV
+rtsp://@AmerSatIP/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3005,3006,113,3005
+#EXTINF:0,Dream2
+rtsp://@AmerSatIP/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3001,3002,416,3001
+#EXTINF:0,RMC MO
+rtsp://@AmerSatIP/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2004,401,2004
+#EXTINF:0,DRN Radio
+rtsp://@AmerSatIP/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2014,405,2014
+#EXTINF:0,BBC (A)
+rtsp://@AmerSatIP/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2016,406,2016
+#EXTINF:0,BBC (E)
+rtsp://@AmerSatIP/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2017,410,2017
+#EXTINF:0,Radio Masr
+rtsp://@AmerSatIP/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3092,141,8191
+#EXTINF:0,Bakous Alexandaria
+rtsp://@AmerSatIP/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3091,152,8191
+#EXTINF:0,Aswan
+rtsp://@AmerSatIP/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3101,153,8191
+#EXTINF:0,BBC Horn of Africa
+rtsp://@AmerSatIP/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3111,154,3111
+#EXTINF:0,Mowagahat-8
+rtsp://@AmerSatIP/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3121,155,8191
+#EXTINF:0,ALWadi ALGaded
+rtsp://@AmerSatIP/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1233,156,8191
+#EXTINF:0,Mowagahat-1
+rtsp://@AmerSatIP/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3141,157,8191
+#EXTINF:0,Mowagahat-2
+rtsp://@AmerSatIP/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3151,158,8191
+#EXTINF:0,Canal Radio
+rtsp://@AmerSatIP/?src=1&freq=11843&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2020,118,8191
+#EXTINF:0,ONTIME SPORTS2 HD
+rtsp://@AmerSatIP/?src=1&freq=11862&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2001,2002,101,2001
+#EXTINF:0,ON  E HD
+rtsp://@AmerSatIP/?src=1&freq=11862&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2004,2005,102,2004
+#EXTINF:0,ONTIME SPORTS HD
+rtsp://@AmerSatIP/?src=1&freq=11862&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2007,2008,103,2007
+#EXTINF:0,ONTIME SPORTS2
+rtsp://@AmerSatIP/?src=1&freq=11862&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2013,2014,105,2013
+#EXTINF:0,ON  E
+rtsp://@AmerSatIP/?src=1&freq=11862&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2016,2017,106,2016
+#EXTINF:0,ONTIME SPORTS
+rtsp://@AmerSatIP/?src=1&freq=11862&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2019,2020,107,2019
+#EXTINF:0,ON Drama
+rtsp://@AmerSatIP/?src=1&freq=11862&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2022,2023,108,2022
+#EXTINF:0,Misr Quran Kareem
+rtsp://@AmerSatIP/?src=1&freq=11862&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2025,2026,109,2025
+#EXTINF:0,Masala TV
+rtsp://@AmerSatIP/?src=1&freq=11881&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,2105,2205,205,2105
+#EXTINF:0,Hum TV
+rtsp://@AmerSatIP/?src=1&freq=11881&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,2106,2206,206,2106
+#EXTINF:0,Duniya News
+rtsp://@AmerSatIP/?src=1&freq=11881&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,2108,2208,208,2108
+#EXTINF:0,GEO TV
+rtsp://@AmerSatIP/?src=1&freq=11881&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,2113,2213,213,2113
+#EXTINF:0,Baby TV
+rtsp://@AmerSatIP/?src=1&freq=11881&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,2120,2220,220,2120
+#EXTINF:0,ARY News
+rtsp://@AmerSatIP/?src=1&freq=11881&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,2121,2221,221,2121
+#EXTINF:0,VH-1
+rtsp://@AmerSatIP/?src=1&freq=11881&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,2124,2224,224,2124
+#EXTINF:0,Free TV
+rtsp://@AmerSatIP/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1008,1009,301,1008
+#EXTINF:0,TV5
+rtsp://@AmerSatIP/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1000,1200,110,1000
+#EXTINF:0,ALFATH TV
+rtsp://@AmerSatIP/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1003,1004,111,1003
+#EXTINF:0,Misr Al Zera3eya
+rtsp://@AmerSatIP/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1305,1306,202,1305
+#EXTINF:0,AIC
+rtsp://@AmerSatIP/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3101,3102,203,3101
+#EXTINF:0,Mazzika
+rtsp://@AmerSatIP/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1119,1120,204,1119
+#EXTINF:0,Al Fath Sonnah TV
+rtsp://@AmerSatIP/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1601,1602,205,1601
+#EXTINF:0,AlSaeedah
+rtsp://@AmerSatIP/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1122,1123,327,1122
+#EXTINF:0,CNN
+rtsp://@AmerSatIP/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1005,1007,345,1005
+#EXTINF:0,Tunisia Nat 2
+rtsp://@AmerSatIP/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3010,3011,332,3010
+#EXTINF:0,Nogoum FM TV
+rtsp://@AmerSatIP/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1307,1308,116,1307
+#EXTINF:0,Al Ghad HD
+rtsp://@AmerSatIP/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1309,1310,100,1309
+#EXTINF:0,Al Ghad SD
+rtsp://@AmerSatIP/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1311,1312,123,1311
+#EXTINF:0,Nile FM
+rtsp://@AmerSatIP/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3017,334,3017
+#EXTINF:0,Nogoum FM
+rtsp://@AmerSatIP/?src=1&freq=11900&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1013,335,1013
+#EXTINF:0,Alkass one HD
+rtsp://@AmerSatIP/?src=1&freq=11919&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,231,331,131,231
+#EXTINF:0,Alkass two HD
+rtsp://@AmerSatIP/?src=1&freq=11919&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,232,332,132,232
+#EXTINF:0,Alkass three HD
+rtsp://@AmerSatIP/?src=1&freq=11919&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,233,333,133,233
+#EXTINF:0,Alkass four HD
+rtsp://@AmerSatIP/?src=1&freq=11919&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,237,337,137,237
+#EXTINF:0,Nilesat Promo
+rtsp://@AmerSatIP/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2801,2802,101,2801
+#EXTINF:0,Mix Bel Araby
+rtsp://@AmerSatIP/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2821,2822,2820,2821
+#EXTINF:0,Koky
+rtsp://@AmerSatIP/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4131,4132,4130,4131
+#EXTINF:0,AL SHARQIYA HD
+rtsp://@AmerSatIP/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2861,2862,2860,2861
+#EXTINF:0,Syria Satellite
+rtsp://@AmerSatIP/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2874,2875,122,2874
+#EXTINF:0,Syria Drama
+rtsp://@AmerSatIP/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2877,2878,123,2877
+#EXTINF:0,Syria Education
+rtsp://@AmerSatIP/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2880,2881,124,2880
+#EXTINF:0,Nour Elsham
+rtsp://@AmerSatIP/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2884,2885,125,2883
+#EXTINF:0,Souryana
+rtsp://@AmerSatIP/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2888,2887,126,2886
+#EXTINF:0,SAMA TV
+rtsp://@AmerSatIP/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2889,2890,127,2889
+#EXTINF:0,Radio Damascus
+rtsp://@AmerSatIP/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2896,137,8191
+#EXTINF:0,Syria Foreign Radio
+rtsp://@AmerSatIP/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2897,138,8191
+#EXTINF:0,Sawt Al Shabab
+rtsp://@AmerSatIP/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2898,139,8191
+#EXTINF:0,AMWAJ FM
+rtsp://@AmerSatIP/?src=1&freq=11938&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2899,140,8191
+#EXTINF:0,alnaqel news
+rtsp://@AmerSatIP/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,5106,5306,5206,5106
+#EXTINF:0,Amman TV
+rtsp://@AmerSatIP/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,150,250,350,150
+#EXTINF:0,Jordan Sport 
+rtsp://@AmerSatIP/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,154,254,354,154
+#EXTINF:0,Khaleej Arab 2
+rtsp://@AmerSatIP/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1393,1394,108,1393
+#EXTINF:0,Dzair 3
+rtsp://@AmerSatIP/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1649,1650,109,1649
+#EXTINF:0,Dar Alshefa
+rtsp://@AmerSatIP/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2161,2163,97,2161
+#EXTINF:0,Dzair Pub
+rtsp://@AmerSatIP/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,112,312,35,112
+#EXTINF:0,ALISTIQAMA TV
+rtsp://@AmerSatIP/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1395,1396,380,1395
+#EXTINF:0,Hona Baghdad
+rtsp://@AmerSatIP/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,43,42,44,43
+#EXTINF:0,RO'YA HD
+rtsp://@AmerSatIP/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,80,81,82,80
+#EXTINF:0,Jordan HD
+rtsp://@AmerSatIP/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2420,2421,85,2420
+#EXTINF:0,Almamlaka TV
+rtsp://@AmerSatIP/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,183,283,83,183
+#EXTINF:0,Darsak 2
+rtsp://@AmerSatIP/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,190,192,381,190
+#EXTINF:0,Darsak Tawjihi
+rtsp://@AmerSatIP/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,191,193,382,191
+#EXTINF:0,Quran Kareem Jordan
+rtsp://@AmerSatIP/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,256,356,256
+#EXTINF:0,Sawt Al-alam
+rtsp://@AmerSatIP/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,302,33,8191
+#EXTINF:0,Hala Jordan
+rtsp://@AmerSatIP/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,40,41,569
+#EXTINF:0,Radio FM
+rtsp://@AmerSatIP/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,655,344,655
+#EXTINF:0,Radio Yaqeen Jordan
+rtsp://@AmerSatIP/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,258,373,258
+#EXTINF:0,Rotana Radio Jordan
+rtsp://@AmerSatIP/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,259,374,259
+#EXTINF:0,Radio Fann Jordan
+rtsp://@AmerSatIP/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,260,375,260
+#EXTINF:0,Rotana TarabJordan  
+rtsp://@AmerSatIP/?src=1&freq=11958&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,261,376,261
+#EXTINF:0,Yalla OSN Support
+rtsp://@AmerSatIP/?src=1&freq=11977&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,202,302,102,202
+#EXTINF:0,France 24 Eng
+rtsp://@AmerSatIP/?src=1&freq=11977&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,203,303,103,203
+#EXTINF:0,Sky News Arabia
+rtsp://@AmerSatIP/?src=1&freq=11977&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,205,305,105,205
+#EXTINF:0,Baby TV
+rtsp://@AmerSatIP/?src=1&freq=11977&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,209,309,109,209
+#EXTINF:0,Sky News HD
+rtsp://@AmerSatIP/?src=1&freq=11977&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,212,312,112,212
+#EXTINF:0,OSN
+rtsp://@AmerSatIP/?src=1&freq=11977&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,213,313,113,213
+#EXTINF:0,Sky News Arabia HD
+rtsp://@AmerSatIP/?src=1&freq=11977&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,215,315,115,215
+#EXTINF:0,DWRR 101.9
+rtsp://@AmerSatIP/?src=1&freq=11977&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,316,116,316
+#EXTINF:0,OSN Movies HD
+rtsp://@AmerSatIP/?src=1&freq=11996&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,201,301,101,201
+#EXTINF:0,OSN Movies Action HD
+rtsp://@AmerSatIP/?src=1&freq=11996&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,202,302,102,202
+#EXTINF:0,OSN First HD
+rtsp://@AmerSatIP/?src=1&freq=11996&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,204,304,104,204
+#EXTINF:0,OSN Sports 2 HD
+rtsp://@AmerSatIP/?src=1&freq=11996&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,205,305,105,205
+#EXTINF:0,OSN YH Cinema HD
+rtsp://@AmerSatIP/?src=1&freq=11996&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,206,406,106,206
+#EXTINF:0,Al Kahera Wal Nas +2
+rtsp://@AmerSatIP/?src=1&freq=12015&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2250,2251,101,2250
+#EXTINF:0,CGTN
+rtsp://@AmerSatIP/?src=1&freq=12015&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1005,1006,102,1005
+#EXTINF:0,NHK WORLD-JAPAN
+rtsp://@AmerSatIP/?src=1&freq=12015&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2111,2112,103,2111
+#EXTINF:0,Libya Alrasmia
+rtsp://@AmerSatIP/?src=1&freq=12015&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1013,1014,104,1013
+#EXTINF:0,Lebanon TV
+rtsp://@AmerSatIP/?src=1&freq=12015&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1000,1001,105,1000
+#EXTINF:0,MBC MASR
+rtsp://@AmerSatIP/?src=1&freq=12015&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2290,2291,106,2290
+#EXTINF:0,HADRAMAUT TV
+rtsp://@AmerSatIP/?src=1&freq=12015&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1300,1301,107,1300
+#EXTINF:0,2M Maroc
+rtsp://@AmerSatIP/?src=1&freq=12015&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1007,1107,108,1007
+#EXTINF:0,CGTN-Arabic
+rtsp://@AmerSatIP/?src=1&freq=12015&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1008,1009,110,4113
+#EXTINF:0,Alhayat 2
+rtsp://@AmerSatIP/?src=1&freq=12015&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1305,1306,111,1305
+#EXTINF:0,Al Mergab
+rtsp://@AmerSatIP/?src=1&freq=12015&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1307,1308,112,1307
+#EXTINF:0,LTC
+rtsp://@AmerSatIP/?src=1&freq=12015&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1309,1310,114,1309
+#EXTINF:0,Iqraa
+rtsp://@AmerSatIP/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,520,730,266,520
+#EXTINF:0,Cima
+rtsp://@AmerSatIP/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,512,650,269,128
+#EXTINF:0,Hekayat HD
+rtsp://@AmerSatIP/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,513,660,271,513
+#EXTINF:0,Hekayat2
+rtsp://@AmerSatIP/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,522,750,260,138
+#EXTINF:0,Aflam 1
+rtsp://@AmerSatIP/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,515,680,258,131
+#EXTINF:0,Aflam 2
+rtsp://@AmerSatIP/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,516,690,257,132
+#EXTINF:0,Cinema
+rtsp://@AmerSatIP/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,517,700,270,133
+#EXTINF:0,Jordan
+rtsp://@AmerSatIP/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,521,740,267,137
+#EXTINF:0,Iraq medical
+rtsp://@AmerSatIP/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,532,5666,279,532
+#EXTINF:0,Al-Khabar TV
+rtsp://@AmerSatIP/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,534,5668,281,534
+#EXTINF:0,Almasalah
+rtsp://@AmerSatIP/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,544,5672,803,544
+#EXTINF:0,JORDAN DERETNA
+rtsp://@AmerSatIP/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,547,5681,806,547
+#EXTINF:0,Iraq Now
+rtsp://@AmerSatIP/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,548,5682,807,548
+#EXTINF:0,El FADJR 2
+rtsp://@AmerSatIP/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,551,5686,816,551
+#EXTINF:0,Dijlah Tarab
+rtsp://@AmerSatIP/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,411,1383,363,411
+#EXTINF:0,Almamlaka TV
+rtsp://@AmerSatIP/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,178,278,78,178
+#EXTINF:0,Zaytouna Radio & TV
+rtsp://@AmerSatIP/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,563,463,396,563
+#EXTINF:0,a Konoz Alhayat
+rtsp://@AmerSatIP/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,565,465,398,565
+#EXTINF:0,EL HIKMA TV DZ
+rtsp://@AmerSatIP/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,566,34,399,566
+#EXTINF:0,Karawan tv
+rtsp://@AmerSatIP/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,113,313,213,113
+#EXTINF:0,Jordan Radio 
+rtsp://@AmerSatIP/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,762,336,762
+#EXTINF:0,Hawa Dijlah Radio
+rtsp://@AmerSatIP/?src=1&freq=12034&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1321,118,1321
+#EXTINF:0,AL Shams
+rtsp://@AmerSatIP/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2101,2111,801,2101
+#EXTINF:0,Oscar TV
+rtsp://@AmerSatIP/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,49,2122,802,49
+#EXTINF:0,Bedaya
+rtsp://@AmerSatIP/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2105,2104,803,2105
+#EXTINF:0,Al Masryia
+rtsp://@AmerSatIP/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2010,2004,804,2010
+#EXTINF:0,Nile TV
+rtsp://@AmerSatIP/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2116,2117,805,2116
+#EXTINF:0,Althanya
+rtsp://@AmerSatIP/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2118,2119,807,2118
+#EXTINF:0,Panorama Drama
+rtsp://@AmerSatIP/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2012,2013,808,2012
+#EXTINF:0,Panorama Drama 2
+rtsp://@AmerSatIP/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2016,2017,809,2016
+#EXTINF:0,Panorama Film
+rtsp://@AmerSatIP/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2018,2019,810,2018
+#EXTINF:0,Panorama Food
+rtsp://@AmerSatIP/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2106,2107,812,2106
+#EXTINF:0,Al Nas
+rtsp://@AmerSatIP/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2112,2113,822,2112
+#EXTINF:0,AL NADA TV
+rtsp://@AmerSatIP/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2315,2316,813,2315
+#EXTINF:0,AL-Anbar
+rtsp://@AmerSatIP/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2000,2001,806,2000
+#EXTINF:0,Al-Majd3
+rtsp://@AmerSatIP/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2310,2311,800,2310
+#EXTINF:0,Radio Hits
+rtsp://@AmerSatIP/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2110,816,2110
+#EXTINF:0,Mega FM
+rtsp://@AmerSatIP/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2006,818,2006
+#EXTINF:0,Nagham FM
+rtsp://@AmerSatIP/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2030,819,2030
+#EXTINF:0,Sha3by FM
+rtsp://@AmerSatIP/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2040,820,2040
+#EXTINF:0,Fashion TV HD
+rtsp://@AmerSatIP/?src=1&freq=12073&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,201,301,101,201
+#EXTINF:0,Food Network HD
+rtsp://@AmerSatIP/?src=1&freq=12073&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,202,302,102,202
+#EXTINF:0,OSN Mov Premiere HD
+rtsp://@AmerSatIP/?src=1&freq=12073&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,203,403,103,203
+#EXTINF:0,OSN Movies Drama HD
+rtsp://@AmerSatIP/?src=1&freq=12073&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,204,404,104,204
+#EXTINF:0,OSN Mov Festival HD
+rtsp://@AmerSatIP/?src=1&freq=12073&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,205,405,105,205
+#EXTINF:0,OSN Movies Kids HD
+rtsp://@AmerSatIP/?src=1&freq=12073&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,206,406,106,206
+#EXTINF:0,OSN Ya Hala! HD +2
+rtsp://@AmerSatIP/?src=1&freq=12073&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&pids=0,207,407,107,207
+#EXTINF:0,dmc HD
+rtsp://@AmerSatIP/?src=1&freq=12092&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4901,4902,101,4901
+#EXTINF:0,dmc
+rtsp://@AmerSatIP/?src=1&freq=12092&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4904,4905,102,4904
+#EXTINF:0,dmc News
+rtsp://@AmerSatIP/?src=1&freq=12092&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4907,4908,103,4907
+#EXTINF:0,Zamalek Sports
+rtsp://@AmerSatIP/?src=1&freq=12092&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4910,4911,104,4910
+#EXTINF:0,dmc drama
+rtsp://@AmerSatIP/?src=1&freq=12092&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4913,4914,105,4913
+#EXTINF:0,dmc masraheyat
+rtsp://@AmerSatIP/?src=1&freq=12092&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4922,4923,108,4922
+#EXTINF:0,Energy FM
+rtsp://@AmerSatIP/?src=1&freq=12092&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,4961,121,4961
+#EXTINF:0,OMAN  TV General SD
+rtsp://@AmerSatIP/?src=1&freq=12111&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,110,120,100,110
+#EXTINF:0,Oman TV General HD
+rtsp://@AmerSatIP/?src=1&freq=12111&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,310,320,300,310
+#EXTINF:0,Oman TV Sport HD
+rtsp://@AmerSatIP/?src=1&freq=12111&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,710,720,700,710
+#EXTINF:0,Oman TV Live HD
+rtsp://@AmerSatIP/?src=1&freq=12111&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,810,820,800,810
+#EXTINF:0,Oman TV Culture HD
+rtsp://@AmerSatIP/?src=1&freq=12111&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1010,1020,1000,1010
+#EXTINF:0,OMAN General RAdio
+rtsp://@AmerSatIP/?src=1&freq=12111&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,130,101,130
+#EXTINF:0,Oman Shabab Radio
+rtsp://@AmerSatIP/?src=1&freq=12111&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,140,102,140
+#EXTINF:0,Oman English Radio
+rtsp://@AmerSatIP/?src=1&freq=12111&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,150,103,150
+#EXTINF:0,Oman Holy Quran Radio
+rtsp://@AmerSatIP/?src=1&freq=12111&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,230,201,230
+#EXTINF:0,Oman Classic Radio
+rtsp://@AmerSatIP/?src=1&freq=12111&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,222,202,222
+#EXTINF:0,Sawtoman Radio
+rtsp://@AmerSatIP/?src=1&freq=12111&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,250,203,250
+#EXTINF:0,Oman TV General HD
+rtsp://@AmerSatIP/?src=1&freq=12130&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1310,1320,101,1310
+#EXTINF:0,Oman TV Sport HD
+rtsp://@AmerSatIP/?src=1&freq=12130&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1720,1710,102,1720
+#EXTINF:0,Oman TV Live HD
+rtsp://@AmerSatIP/?src=1&freq=12130&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1810,1820,103,1810
+#EXTINF:0,Oman TV Culture HD
+rtsp://@AmerSatIP/?src=1&freq=12130&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1010,1020,104,1010
+#EXTINF:0,Oman TV General
+rtsp://@AmerSatIP/?src=1&freq=12130&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1110,1120,105,1110
+#EXTINF:0,Oman General Radio
+rtsp://@AmerSatIP/?src=1&freq=12130&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1245,115,1245
+#EXTINF:0,Oman Shabab Radio
+rtsp://@AmerSatIP/?src=1&freq=12130&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1246,116,1246
+#EXTINF:0,Oman English Radio
+rtsp://@AmerSatIP/?src=1&freq=12130&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1247,117,1247
+#EXTINF:0,Oman HolyQuran Radio
+rtsp://@AmerSatIP/?src=1&freq=12130&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1248,118,1248
+#EXTINF:0,Oman Classic Radio
+rtsp://@AmerSatIP/?src=1&freq=12130&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1249,119,1249
+#EXTINF:0,Sawtoman Radio
+rtsp://@AmerSatIP/?src=1&freq=12130&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,1250,2200,1250
+#EXTINF:0,Saudi-1
+rtsp://@AmerSatIP/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,512,612,266,512
+#EXTINF:0,KSA Sports 2
+rtsp://@AmerSatIP/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,513,712,256,513
+#EXTINF:0,KSA Sport 1
+rtsp://@AmerSatIP/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,514,812,252,514
+#EXTINF:0,Al-EKhbaria
+rtsp://@AmerSatIP/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,515,912,258,515
+#EXTINF:0,Al-EKhbaria
+rtsp://@AmerSatIP/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,515,912,258,515
+#EXTINF:0,Thikrayat
+rtsp://@AmerSatIP/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,516,914,259,516
+#EXTINF:0,Saudi Ch. For Quran
+rtsp://@AmerSatIP/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2308,2309,267,2308
+#EXTINF:0,Saudi Ch. For Sunnah
+rtsp://@AmerSatIP/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2310,2311,268,2310
+#EXTINF:0,SBC
+rtsp://@AmerSatIP/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2312,2313,269,2312
+#EXTINF:0,KSA Sports +1
+rtsp://@AmerSatIP/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2314,2315,624,2314
+#EXTINF:0,Holy Quran
+rtsp://@AmerSatIP/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,613,260,613
+#EXTINF:0,Saudi Radio-1
+rtsp://@AmerSatIP/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,713,261,713
+#EXTINF:0,Saudi Radio-2
+rtsp://@AmerSatIP/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,813,262,813
+#EXTINF:0,European
+rtsp://@AmerSatIP/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,913,263,913
+#EXTINF:0,Radio-5
+rtsp://@AmerSatIP/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,915,264,915
+#EXTINF:0,Nedaa El Islam
+rtsp://@AmerSatIP/?src=1&freq=12149&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,413,265,413
+#EXTINF:0,BBC Arabic
+rtsp://@AmerSatIP/?src=1&freq=12207&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1002,1005,103,1002
+#EXTINF:0,ALhayat
+rtsp://@AmerSatIP/?src=1&freq=12207&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1007,1008,104,1007
+#EXTINF:0,Alhilal tv
+rtsp://@AmerSatIP/?src=1&freq=12207&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,48,4112,105,8189
+#EXTINF:0,France 24
+rtsp://@AmerSatIP/?src=1&freq=12207&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1025,1026,107,1025
+#EXTINF:0,Alhayat We Alnas
+rtsp://@AmerSatIP/?src=1&freq=12207&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1009,1010,108,1009
+#EXTINF:0,AlHayat HD
+rtsp://@AmerSatIP/?src=1&freq=12207&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1019,1020,109,1019
+#EXTINF:0,Al Aoula Inter
+rtsp://@AmerSatIP/?src=1&freq=12207&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1030,1031,112,1030
+#EXTINF:0,A TV
+rtsp://@AmerSatIP/?src=1&freq=12207&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1035,1036,101,1035
+#EXTINF:0,Nessma
+rtsp://@AmerSatIP/?src=1&freq=12207&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1038,1039,102,1038
+#EXTINF:0,ALSahraa
+rtsp://@AmerSatIP/?src=1&freq=12207&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1044,1045,113,1044
+#EXTINF:0,ALhayah ALaan
+rtsp://@AmerSatIP/?src=1&freq=12207&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1047,,114,1047
+#EXTINF:0,Madrastna 2
+rtsp://@AmerSatIP/?src=1&freq=12207&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1050,1051,115,1050
+#EXTINF:0,Test
+rtsp://@AmerSatIP/?src=1&freq=12207&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,1037,150,1037
+#EXTINF:0,Rotana Music
+rtsp://@AmerSatIP/?src=1&freq=12226&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2101,2102,101,2101
+#EXTINF:0,Rotana Clip
+rtsp://@AmerSatIP/?src=1&freq=12226&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2104,2105,102,2104
+#EXTINF:0,Rotana Khalijia
+rtsp://@AmerSatIP/?src=1&freq=12226&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2110,2111,104,2110
+#EXTINF:0,Rotana Classic
+rtsp://@AmerSatIP/?src=1&freq=12226&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2113,2114,105,2113
+#EXTINF:0,Rotana Drama
+rtsp://@AmerSatIP/?src=1&freq=12226&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2116,2117,106,2116
+#EXTINF:0,Rotana Cinema EGY
+rtsp://@AmerSatIP/?src=1&freq=12226&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2119,2120,107,2119
+#EXTINF:0,Rotana Cinema KSA
+rtsp://@AmerSatIP/?src=1&freq=12226&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2125,2126,109,2125
+#EXTINF:0,LBC SAT
+rtsp://@AmerSatIP/?src=1&freq=12226&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2128,2129,110,2128
+#EXTINF:0,AL Resala
+rtsp://@AmerSatIP/?src=1&freq=12226&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2131,2132,111,2131
+#EXTINF:0,Rotana FM KSA
+rtsp://@AmerSatIP/?src=1&freq=12226&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2160,114,8191
+#EXTINF:0,Palestine live
+rtsp://@AmerSatIP/?src=1&freq=12284&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,6408,6409,37,6408
+#EXTINF:0,Al Kahera Wal Nas +2
+rtsp://@AmerSatIP/?src=1&freq=12284&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,807,808,36,807
+#EXTINF:0,Majan
+rtsp://@AmerSatIP/?src=1&freq=12284&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,811,812,38,811
+#EXTINF:0,Sada ElBalad Drama
+rtsp://@AmerSatIP/?src=1&freq=12284&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,817,818,41,817
+#EXTINF:0,AL NADA TV
+rtsp://@AmerSatIP/?src=1&freq=12284&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,308,256,40,308
+#EXTINF:0,TEN
+rtsp://@AmerSatIP/?src=1&freq=12284&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,825,826,34,825
+#EXTINF:0,Extra News HD
+rtsp://@AmerSatIP/?src=1&freq=12303&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2301,2302,101,2301
+#EXTINF:0,Libya Sport 2 HD
+rtsp://@AmerSatIP/?src=1&freq=12303&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2304,2305,102,2304
+#EXTINF:0,Libya Education 
+rtsp://@AmerSatIP/?src=1&freq=12303&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2307,2308,103,2307
+#EXTINF:0,Madrasetna
+rtsp://@AmerSatIP/?src=1&freq=12303&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2310,2311,104,2310
+#EXTINF:0,ONTIME SPORTS3 HD
+rtsp://@AmerSatIP/?src=1&freq=12303&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2316,2317,106,2316
+#EXTINF:0,ONTIME SPORTS3 
+rtsp://@AmerSatIP/?src=1&freq=12303&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2319,2320,107,2319
+#EXTINF:0,Syria News
+rtsp://@AmerSatIP/?src=1&freq=12303&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2323,2324,108,2323
